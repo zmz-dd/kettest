@@ -1,0 +1,12 @@
+
+[
+  { "word": "apple", "meaning": "苹果", "pos": "n.", "example": "I eat an apple." },
+  { "word": "banana", "meaning": "香蕉", "pos": "n.", "example": "Monkeys like bananas." },
+  { "word": "cat", "meaning": "猫", "pos": "n.", "example": "The cat is sleeping." },
+  { "word": "dog", "meaning": "狗", "pos": "n.", "example": "The dog barks." },
+  { "word": "computer", "meaning": "电脑", "pos": "n.", "example": "I use a computer." },
+  { "word": "abandon", "meaning": "放弃", "pos": "v.", "example": "Do not abandon your dreams." },
+  { "word": "ability", "meaning": "能力", "pos": "n.", "example": "He has the ability to swim." },
+  { "word": "normal", "meaning": "正常的", "pos": "adj.", "example": "It is normal to feel sad." },
+  { "word": "abnormal", "meaning": "不正常的", "pos": "adj.", "example": "The weather is abnormal." }
+]

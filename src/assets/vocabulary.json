@@ -1,0 +1,9669 @@
+[
+  {
+    "word": "a",
+    "pos": "det",
+    "meaning": "一，一个",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "an",
+    "pos": "det",
+    "meaning": "一，一个",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "about",
+    "pos": "prep",
+    "meaning": "关于，对于",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "and",
+    "pos": "conj",
+    "meaning": "和",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "add",
+    "pos": "v",
+    "meaning": "加",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "angry",
+    "pos": "adj",
+    "meaning": "生气",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "afternoon",
+    "pos": "n",
+    "meaning": "下午",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "animal",
+    "pos": "n",
+    "meaning": "动物",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "again",
+    "pos": "adv",
+    "meaning": "又，再",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "Ann/Anna",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "Alex",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "answer",
+    "pos": "n+v",
+    "meaning": "答案；回答",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "Alice",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "apartment",
+    "pos": "n",
+    "meaning": "公寓",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "alien",
+    "pos": "n",
+    "meaning": "外星人",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "apple",
+    "pos": "n",
+    "meaning": "苹果",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "alphabet",
+    "pos": "n",
+    "meaning": "字母表",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "arm",
+    "pos": "n",
+    "meaning": "手臂",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "armchair",
+    "pos": "n",
+    "meaning": "扶手椅",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "ask",
+    "pos": "v",
+    "meaning": "问",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "at",
+    "pos": "prep of place",
+    "meaning": "在，于，向，在…方面",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "baby",
+    "pos": "n",
+    "meaning": "婴孩",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bike",
+    "pos": "n",
+    "meaning": "自行车",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "badminton",
+    "pos": "n",
+    "meaning": "羽毛球",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "Bill",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bag",
+    "pos": "n",
+    "meaning": "袋子",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bird",
+    "pos": "n",
+    "meaning": "鸟",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "ball",
+    "pos": "n",
+    "meaning": "球",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "birthday",
+    "pos": "n",
+    "meaning": "生日",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "balloon",
+    "pos": "n",
+    "meaning": "气球",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "black",
+    "pos": "adj",
+    "meaning": "黑色的",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "banana",
+    "pos": "n",
+    "meaning": "香蕉",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "blue",
+    "pos": "adj",
+    "meaning": "蓝色的",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "baseball",
+    "pos": "n",
+    "meaning": "棒球",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "board",
+    "pos": "n",
+    "meaning": "木板",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "baseball cap",
+    "pos": "n",
+    "meaning": "棒球帽",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "board game",
+    "pos": "n",
+    "meaning": "棋盘游戏",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "basketball",
+    "pos": "n",
+    "meaning": "篮球",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "boat",
+    "pos": "n",
+    "meaning": "小船艇",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bat (as sport equipment)",
+    "pos": "n",
+    "meaning": "球棒，球拍，球板",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "body",
+    "pos": "n",
+    "meaning": "身体",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bath",
+    "pos": "n",
+    "meaning": "淋浴",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "book",
+    "pos": "n",
+    "meaning": "书",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bathroom",
+    "pos": "n",
+    "meaning": "浴室，盥洗室",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bookcase",
+    "pos": "n",
+    "meaning": "书架，书柜",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "be",
+    "pos": "v",
+    "meaning": "是",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bookshop",
+    "pos": "n",
+    "meaning": "书店",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "beach",
+    "pos": "n",
+    "meaning": "海滩",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "boots",
+    "pos": "n",
+    "meaning": "靴子",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bean",
+    "pos": "n",
+    "meaning": "豆",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bounce",
+    "pos": "v",
+    "meaning": "弹跳，(球)弹回",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bear",
+    "pos": "n",
+    "meaning": "熊",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "box",
+    "pos": "n",
+    "meaning": "盒子，箱",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "beautiful",
+    "pos": "adj",
+    "meaning": "美丽的，很好的",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "boy",
+    "pos": "n",
+    "meaning": "男孩",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bed",
+    "pos": "n",
+    "meaning": "床",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bread",
+    "pos": "n",
+    "meaning": "面包",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bedroom",
+    "pos": "n",
+    "meaning": "卧室",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "breakfast",
+    "pos": "n",
+    "meaning": "早餐",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bee",
+    "pos": "n",
+    "meaning": "蜜蜂",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "brother",
+    "pos": "n",
+    "meaning": "兄弟",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "behind",
+    "pos": "prep",
+    "meaning": "在…后面",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "brown",
+    "pos": "adj",
+    "meaning": "褐色的，棕色的",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "Ben",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "burger",
+    "pos": "n",
+    "meaning": "汉堡包",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "between",
+    "pos": "prep",
+    "meaning": "在…中间",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bus",
+    "pos": "n",
+    "meaning": "公共汽车",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "big",
+    "pos": "adj",
+    "meaning": "大的",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "but",
+    "pos": "conj",
+    "meaning": "但是",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "bye",
+    "pos": "excl",
+    "meaning": "再见",
+    "level": "KET一级",
+    "initial": "B"
+  },
+  {
+    "word": "cake",
+    "pos": "n",
+    "meaning": "蛋糕",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "close",
+    "pos": "v",
+    "meaning": "关，关闭",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "camera",
+    "pos": "n",
+    "meaning": "照相机",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "closed",
+    "pos": "adj",
+    "meaning": "关闭的",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "can",
+    "pos": "v",
+    "meaning": "能",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "clothes",
+    "pos": "n",
+    "meaning": "衣服",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "candy (UK sweet(s))",
+    "pos": "n",
+    "meaning": "糖果",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "coconut",
+    "pos": "n",
+    "meaning": "椰子",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "car",
+    "pos": "n",
+    "meaning": "小汽车",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "colour (UK color)",
+    "pos": "n+v",
+    "meaning": "颜色；涂色",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "carrot",
+    "pos": "n",
+    "meaning": "胡萝卜",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "come",
+    "pos": "v",
+    "meaning": "来",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "cat",
+    "pos": "n",
+    "meaning": "猫",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "complete",
+    "pos": "v",
+    "meaning": "完成",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "catch (e.g. a ball)",
+    "pos": "v",
+    "meaning": "接住",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "computer",
+    "pos": "n",
+    "meaning": "计算机",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "chair",
+    "pos": "n",
+    "meaning": "椅子",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "cool",
+    "pos": "adj+excl",
+    "meaning": "凉爽的；很棒，很酷",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "chicken",
+    "pos": "n",
+    "meaning": "小鸡，鸡肉",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "correct",
+    "pos": "adj",
+    "meaning": "正确的",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "child/children",
+    "pos": "n",
+    "meaning": "孩子/孩子们",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "count",
+    "pos": "v",
+    "meaning": "数数",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "chips (US fries)",
+    "pos": "n",
+    "meaning": "炸薯条",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "cousin",
+    "pos": "n",
+    "meaning": "同辈表亲（或堂亲）",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "chocolate",
+    "pos": "n",
+    "meaning": "巧克力",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "cow",
+    "pos": "n",
+    "meaning": "奶牛",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "choose",
+    "pos": "v",
+    "meaning": "选择",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "crayon",
+    "pos": "n",
+    "meaning": "蜡笔",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "clap",
+    "pos": "v",
+    "meaning": "鼓掌",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "crocodile",
+    "pos": "n",
+    "meaning": "鳄鱼",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "class",
+    "pos": "n",
+    "meaning": "班级，课",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "cross",
+    "pos": "n+v",
+    "meaning": "叉；横过，划叉",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "classmate",
+    "pos": "n",
+    "meaning": "同学",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "cupboard",
+    "pos": "n",
+    "meaning": "橱柜",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "classroom",
+    "pos": "n",
+    "meaning": "教室",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "clean",
+    "pos": "v",
+    "meaning": "打扫",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "clock",
+    "pos": "n",
+    "meaning": "时钟",
+    "level": "KET一级",
+    "initial": "C"
+  },
+  {
+    "word": "dad",
+    "pos": "n",
+    "meaning": "爸爸",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "donkey",
+    "pos": "n",
+    "meaning": "驴",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "Dan",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "don’t worry",
+    "pos": "excl",
+    "meaning": "别担心",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "day",
+    "pos": "n",
+    "meaning": "天，日",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "door",
+    "pos": "n",
+    "meaning": "门",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "desk",
+    "pos": "n",
+    "meaning": "课桌",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "double",
+    "pos": "adj",
+    "meaning": "双重的",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "dining room",
+    "pos": "n",
+    "meaning": "餐厅",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "draw",
+    "pos": "v",
+    "meaning": "画",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "dinner",
+    "pos": "n",
+    "meaning": "晚餐",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "drawing",
+    "pos": "n",
+    "meaning": "绘画，图画",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "dirty",
+    "pos": "adj",
+    "meaning": "脏的",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "dress",
+    "pos": "n",
+    "meaning": "连衣裙",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "do",
+    "pos": "v",
+    "meaning": "做",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "drink",
+    "pos": "n+v",
+    "meaning": "饮料；喝",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "dog",
+    "pos": "n",
+    "meaning": "狗",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "drive",
+    "pos": "v",
+    "meaning": "开车",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "doll",
+    "pos": "n",
+    "meaning": "洋娃娃",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "duck",
+    "pos": "n",
+    "meaning": "鸭子",
+    "level": "KET一级",
+    "initial": "D"
+  },
+  {
+    "word": "ear",
+    "pos": "n",
+    "meaning": "耳朵",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "enjoy",
+    "pos": "v",
+    "meaning": "喜欢",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "eat",
+    "pos": "v",
+    "meaning": "吃",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "eraser (UK rubber)",
+    "pos": "n",
+    "meaning": "橡皮",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "egg",
+    "pos": "n",
+    "meaning": "鸡蛋",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "Eva",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "elephant",
+    "pos": "n",
+    "meaning": "大象",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "evening",
+    "pos": "n",
+    "meaning": "晚上",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "end",
+    "pos": "n",
+    "meaning": "结束",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "example",
+    "pos": "n",
+    "meaning": "例子",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "English",
+    "pos": "adj+n",
+    "meaning": "英国的；英语",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "eye",
+    "pos": "n",
+    "meaning": "眼睛",
+    "level": "KET一级",
+    "initial": "E"
+  },
+  {
+    "word": "face",
+    "pos": "n",
+    "meaning": "脸",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "food",
+    "pos": "n",
+    "meaning": "食物",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "family",
+    "pos": "n",
+    "meaning": "家庭",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "foot/feet",
+    "pos": "n",
+    "meaning": "脚",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "fantastic",
+    "pos": "adj+excl",
+    "meaning": "极好的；好极了",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "football (US soccer)",
+    "pos": "n",
+    "meaning": "足球",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "father",
+    "pos": "n",
+    "meaning": "父亲",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "for",
+    "pos": "prep",
+    "meaning": "为，给，替",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "favourite (US favorite)",
+    "pos": "adj",
+    "meaning": "最喜欢的",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "friend",
+    "pos": "n",
+    "meaning": "朋友",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "find",
+    "pos": "v",
+    "meaning": "找到，发现",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "fries (UK chips)",
+    "pos": "n",
+    "meaning": "炸薯条",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "fish (s+pl)",
+    "pos": "n",
+    "meaning": "鱼",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "frog",
+    "pos": "n",
+    "meaning": "青蛙",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "fishing",
+    "pos": "n",
+    "meaning": "钓鱼",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "from",
+    "pos": "prep",
+    "meaning": "从",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "flat (US apartment)",
+    "pos": "n",
+    "meaning": "公寓",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "fruit",
+    "pos": "n",
+    "meaning": "水果",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "floor",
+    "pos": "n",
+    "meaning": "地面，楼层",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "fun",
+    "pos": "adj+n",
+    "meaning": "有趣的；乐趣",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "flower",
+    "pos": "n",
+    "meaning": "花",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "funny",
+    "pos": "adj",
+    "meaning": "有趣的",
+    "level": "KET一级",
+    "initial": "F"
+  },
+  {
+    "word": "game",
+    "pos": "n",
+    "meaning": "游戏",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "goodbye",
+    "pos": "excl",
+    "meaning": "再见",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "garden",
+    "pos": "n",
+    "meaning": "花园",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "Grace",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "get",
+    "pos": "v",
+    "meaning": "得到",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "grandfather",
+    "pos": "n",
+    "meaning": "祖父，爷爷",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "giraffe",
+    "pos": "n",
+    "meaning": "长颈鹿",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "grandma",
+    "pos": "n",
+    "meaning": "祖母，奶奶",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "girl",
+    "pos": "n",
+    "meaning": "女孩",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "grandmother",
+    "pos": "n",
+    "meaning": "祖母，奶奶",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "give",
+    "pos": "v",
+    "meaning": "给",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "grandpa",
+    "pos": "n",
+    "meaning": "祖父，爷爷",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "glasses",
+    "pos": "n",
+    "meaning": "眼睛",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "grape",
+    "pos": "n",
+    "meaning": "葡萄",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "go",
+    "pos": "v",
+    "meaning": "去",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "gray (UK grey)",
+    "pos": "adj",
+    "meaning": "灰色",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "go to bed",
+    "pos": "v",
+    "meaning": "去睡觉",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "great",
+    "pos": "adj+excl",
+    "meaning": "伟大的；太好了",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "go to sleep",
+    "pos": "v",
+    "meaning": "去睡觉",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "green",
+    "pos": "adj",
+    "meaning": "绿色的",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "goat",
+    "pos": "n",
+    "meaning": "山羊",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "grey (US gray)",
+    "pos": "adj",
+    "meaning": "灰色的",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "good",
+    "pos": "adj",
+    "meaning": "好的",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "guitar",
+    "pos": "n",
+    "meaning": "吉他",
+    "level": "KET一级",
+    "initial": "G"
+  },
+  {
+    "word": "hair",
+    "pos": "n",
+    "meaning": "头发",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "him",
+    "pos": "pron",
+    "meaning": "他（宾格）",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hall",
+    "pos": "n",
+    "meaning": "大厅，厅",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hippo",
+    "pos": "n",
+    "meaning": "河马",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hand",
+    "pos": "n",
+    "meaning": "手",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "his",
+    "pos": "poss adj+pron",
+    "meaning": "他的；他的（物主代词）",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "handbag",
+    "pos": "n",
+    "meaning": "手提包",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hit",
+    "pos": "v",
+    "meaning": "击，打",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "happy",
+    "pos": "adj",
+    "meaning": "快乐的",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hobby",
+    "pos": "n",
+    "meaning": "爱好",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hat",
+    "pos": "n",
+    "meaning": "帽子",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hockey",
+    "pos": "n",
+    "meaning": "曲棍球",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "have",
+    "pos": "v",
+    "meaning": "有",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hold",
+    "pos": "v",
+    "meaning": "拿着",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "have got",
+    "pos": "v",
+    "meaning": "有",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "home",
+    "pos": "n+adv",
+    "meaning": "家；在家",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "he",
+    "pos": "pron",
+    "meaning": "他（主格）",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hooray",
+    "pos": "excl",
+    "meaning": "好极了",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "head",
+    "pos": "n",
+    "meaning": "头",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "horse",
+    "pos": "n",
+    "meaning": "马",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "helicopter",
+    "pos": "n",
+    "meaning": "直升飞机",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "house",
+    "pos": "n",
+    "meaning": "房子",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hello",
+    "pos": "excl",
+    "meaning": "喂，你好",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "how",
+    "pos": "int",
+    "meaning": "怎样",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "her",
+    "pos": "poss adj+pron",
+    "meaning": "她的；她的",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "how many",
+    "pos": "int",
+    "meaning": "多少",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "here",
+    "pos": "adv",
+    "meaning": "这里",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "how old",
+    "pos": "int",
+    "meaning": "多大",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hers",
+    "pos": "pron",
+    "meaning": "她的（物主代词）",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "Hugo",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "hi",
+    "pos": "excl",
+    "meaning": "喂，你好",
+    "level": "KET一级",
+    "initial": "H"
+  },
+  {
+    "word": "I",
+    "pos": "pron",
+    "meaning": "我（主格）",
+    "level": "KET一级",
+    "initial": "I"
+  },
+  {
+    "word": "in front of",
+    "pos": "prep",
+    "meaning": "在…前面",
+    "level": "KET一级",
+    "initial": "I"
+  },
+  {
+    "word": "Ice cream",
+    "pos": "n",
+    "meaning": "冰激凌",
+    "level": "KET一级",
+    "initial": "I"
+  },
+  {
+    "word": "it",
+    "pos": "pron",
+    "meaning": "它（主，宾格）",
+    "level": "KET一级",
+    "initial": "I"
+  },
+  {
+    "word": "in",
+    "pos": "prep of place+time",
+    "meaning": "在…期间",
+    "level": "KET一级",
+    "initial": "I"
+  },
+  {
+    "word": "its",
+    "pos": "poss adj+pron",
+    "meaning": "它的；它的（物主代词）",
+    "level": "KET一级",
+    "initial": "I"
+  },
+  {
+    "word": "jacket",
+    "pos": "n",
+    "meaning": "夹克衫",
+    "level": "KET一级",
+    "initial": "J"
+  },
+  {
+    "word": "Jill",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "J"
+  },
+  {
+    "word": "jeans",
+    "pos": "n",
+    "meaning": "牛仔裤",
+    "level": "KET一级",
+    "initial": "J"
+  },
+  {
+    "word": "juice",
+    "pos": "n",
+    "meaning": "果汁",
+    "level": "KET一级",
+    "initial": "J"
+  },
+  {
+    "word": "jellyfish",
+    "pos": "n",
+    "meaning": "水母，海蜇",
+    "level": "KET一级",
+    "initial": "J"
+  },
+  {
+    "word": "jump",
+    "pos": "v",
+    "meaning": "跳，跳跃",
+    "level": "KET一级",
+    "initial": "J"
+  },
+  {
+    "word": "keyboard (computer)",
+    "pos": "n",
+    "meaning": "键盘",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "kitchen",
+    "pos": "n",
+    "meaning": "厨房",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "kick",
+    "pos": "v",
+    "meaning": "踢",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "kite",
+    "pos": "n",
+    "meaning": "风筝",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "kid",
+    "pos": "n",
+    "meaning": "小孩",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "kiwi",
+    "pos": "n",
+    "meaning": "猕猴桃",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "Kim",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "know",
+    "pos": "v",
+    "meaning": "知道，认识",
+    "level": "KET一级",
+    "initial": "K"
+  },
+  {
+    "word": "lamp",
+    "pos": "n",
+    "meaning": "台灯，灯",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "love",
+    "pos": "v",
+    "meaning": "热爱，喜欢",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "learn",
+    "pos": "v",
+    "meaning": "学习",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "line",
+    "pos": "n",
+    "meaning": "线",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "leg",
+    "pos": "n",
+    "meaning": "腿",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "listen",
+    "pos": "v",
+    "meaning": "听",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lemon",
+    "pos": "n",
+    "meaning": "柠檬",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "live",
+    "pos": "n",
+    "meaning": "居住，生活",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lemonade",
+    "pos": "n",
+    "meaning": "柠檬水",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "living room",
+    "pos": "n",
+    "meaning": "起居室",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "a lot of",
+    "pos": "det",
+    "meaning": "很多",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "lizard",
+    "pos": "n",
+    "meaning": "晰蝎",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lots",
+    "pos": "adv+pron",
+    "meaning": "非常；许多",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "Lucy",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lesson",
+    "pos": "n",
+    "meaning": "课",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lunch",
+    "pos": "n",
+    "meaning": "午饭",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "let’s",
+    "pos": "v",
+    "meaning": "让我们",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "long",
+    "pos": "adj",
+    "meaning": "长的",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "letter (as in alphabet)",
+    "pos": "n",
+    "meaning": "字母",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "look",
+    "pos": "v",
+    "meaning": "看",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "like",
+    "pos": "prep+v",
+    "meaning": "相似；喜欢",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "look at",
+    "pos": "v",
+    "meaning": "看（某物）",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lime",
+    "pos": "n",
+    "meaning": "酸橙",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lorry (US truck)",
+    "pos": "n",
+    "meaning": "卡车",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "lots of",
+    "pos": "det",
+    "meaning": "很多",
+    "level": "KET一级",
+    "initial": "L"
+  },
+  {
+    "word": "a lot",
+    "pos": "adv+pron",
+    "meaning": "非常；许多",
+    "level": "KET一级",
+    "initial": "A"
+  },
+  {
+    "word": "make",
+    "pos": "v",
+    "meaning": "制作",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "Miss",
+    "pos": "title",
+    "meaning": "小姐 (用于女孩或未婚女子的姓名前面)",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "man/men",
+    "pos": "n",
+    "meaning": "男人",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "monkey",
+    "pos": "n",
+    "meaning": "猴子",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mango",
+    "pos": "n",
+    "meaning": "芒果",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "monster",
+    "pos": "n",
+    "meaning": "怪物",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "many",
+    "pos": "det",
+    "meaning": "许多的",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "morning",
+    "pos": "n",
+    "meaning": "早晨",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "Mark",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mother",
+    "pos": "n",
+    "meaning": "母亲",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mat",
+    "pos": "n",
+    "meaning": "小块地毯",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "motorbike",
+    "pos": "n",
+    "meaning": "摩托车",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "Matt",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mouse/mice",
+    "pos": "n",
+    "meaning": "老鼠",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "May (as in girl’s name)",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mouse (computer)",
+    "pos": "n",
+    "meaning": "鼠标",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "me",
+    "pos": "pron",
+    "meaning": "我（宾格）",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mouth",
+    "pos": "n",
+    "meaning": "嘴",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "me too",
+    "pos": "dis",
+    "meaning": "我也是",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "Mr",
+    "pos": "title",
+    "meaning": "先生（用于男子的姓氏或姓名前）",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "meat",
+    "pos": "n",
+    "meaning": "肉",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "Mrs",
+    "pos": "title",
+    "meaning": "太太，夫人（用于女子的姓氏或姓名前）",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "meatballs",
+    "pos": "n",
+    "meaning": "肉丸",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mum",
+    "pos": "n",
+    "meaning": "妈妈",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "milk",
+    "pos": "n",
+    "meaning": "牛奶",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "music",
+    "pos": "n",
+    "meaning": "音乐",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mine",
+    "pos": "pron",
+    "meaning": "我的（物主代词）",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "my",
+    "pos": "poss adj",
+    "meaning": "我的",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "mirror",
+    "pos": "n",
+    "meaning": "镜子",
+    "level": "KET一级",
+    "initial": "M"
+  },
+  {
+    "word": "name",
+    "pos": "n",
+    "meaning": "名字",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "no",
+    "pos": "adv+det",
+    "meaning": "不；没有",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "new",
+    "pos": "adj",
+    "meaning": "新的",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "nose",
+    "pos": "n",
+    "meaning": "鼻子",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "next to",
+    "pos": "prep",
+    "meaning": "与…相邻的",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "not",
+    "pos": "adv",
+    "meaning": "不，没有",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "nice",
+    "pos": "adj",
+    "meaning": "美好的",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "now",
+    "pos": "adv",
+    "meaning": "现在",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "Nick",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "number",
+    "pos": "n",
+    "meaning": "数字",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "night",
+    "pos": "n",
+    "meaning": "晚上",
+    "level": "KET一级",
+    "initial": "N"
+  },
+  {
+    "word": "of",
+    "pos": "prep",
+    "meaning": "属于…的",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "onion",
+    "pos": "n",
+    "meaning": "洋葱",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "oh",
+    "pos": "dis",
+    "meaning": "阿，呀",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "open",
+    "pos": "adj+v",
+    "meaning": "开着的；打开",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "oh dear",
+    "pos": "excl",
+    "meaning": "哦亲爱的！",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "or",
+    "pos": "conj",
+    "meaning": "或者",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "OK",
+    "pos": "adj+dis",
+    "meaning": "可以的；行！",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "orange",
+    "pos": "adj+n",
+    "meaning": "橙色的；橙子",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "old",
+    "pos": "adj",
+    "meaning": "老的",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "our",
+    "pos": "poss adj",
+    "meaning": "我们的",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "on",
+    "pos": "prep of place",
+    "meaning": "在…上面",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "ours",
+    "pos": "pron",
+    "meaning": "我们的（物主代词）",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "one",
+    "pos": "det+pron",
+    "meaning": "一；其中的一个人（或事物）",
+    "level": "KET一级",
+    "initial": "O"
+  },
+  {
+    "word": "page",
+    "pos": "n",
+    "meaning": "页",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "piano",
+    "pos": "n",
+    "meaning": "钢琴",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "paint",
+    "pos": "n+v",
+    "meaning": "颜料；涂颜色",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pick up",
+    "pos": "v",
+    "meaning": "拾起，捡起",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "painting",
+    "pos": "n",
+    "meaning": "画",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "picture",
+    "pos": "n",
+    "meaning": "图片",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "paper",
+    "pos": "adj+n",
+    "meaning": "纸质的；纸",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pie",
+    "pos": "n",
+    "meaning": "馅饼",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pardon",
+    "pos": "int",
+    "meaning": "请原谅",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pineapple",
+    "pos": "n",
+    "meaning": "菠萝",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "park",
+    "pos": "n",
+    "meaning": "公园",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pink",
+    "pos": "adj",
+    "meaning": "粉红色的",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "part",
+    "pos": "n",
+    "meaning": "部分",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "plane",
+    "pos": "n",
+    "meaning": "飞机",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "Pat",
+    "pos": "n",
+    "meaning": "人名",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "play",
+    "pos": "v",
+    "meaning": "玩儿",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pea",
+    "pos": "n",
+    "meaning": "豌豆",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "playground",
+    "pos": "n",
+    "meaning": "操场",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pear",
+    "pos": "n",
+    "meaning": "梨",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "please",
+    "pos": "dis",
+    "meaning": "请",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pen",
+    "pos": "n",
+    "meaning": "钢笔",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "point",
+    "pos": "v",
+    "meaning": "指（向）",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pencil",
+    "pos": "n",
+    "meaning": "铅笔",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "polar bear",
+    "pos": "n",
+    "meaning": "北极熊",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "person/people",
+    "pos": "n",
+    "meaning": "人",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "poster",
+    "pos": "n",
+    "meaning": "海报",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "pet",
+    "pos": "n",
+    "meaning": "宠物",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "potato",
+    "pos": "n",
+    "meaning": "土豆",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "phone",
+    "pos": "n+v",
+    "meaning": "电话；打电话",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "purple",
+    "pos": "adj",
+    "meaning": "紫色的",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "photo",
+    "pos": "n",
+    "meaning": "照片",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "put",
+    "pos": "v",
+    "meaning": "放，搁",
+    "level": "KET一级",
+    "initial": "P"
+  },
+  {
+    "word": "question",
+    "pos": "n",
+    "meaning": "问题",
+    "level": "KET一级",
+    "initial": "Q"
+  },
+  {
+    "word": "radio",
+    "pos": "n",
+    "meaning": "收音机",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "right (as in correct)",
+    "pos": "adj",
+    "meaning": "正确的",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "read",
+    "pos": "v",
+    "meaning": "读，阅读",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "robot",
+    "pos": "n",
+    "meaning": "机器人",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "really",
+    "pos": "adv",
+    "meaning": "真正地",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "room",
+    "pos": "n",
+    "meaning": "房间",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "red",
+    "pos": "adj",
+    "meaning": "红色的",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "rubber (US eraser)",
+    "pos": "n",
+    "meaning": "橡皮",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "rice",
+    "pos": "n",
+    "meaning": "米饭",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "rug",
+    "pos": "n",
+    "meaning": "小地毯",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "ride",
+    "pos": "v",
+    "meaning": "骑（车）",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "ruler",
+    "pos": "n",
+    "meaning": "尺子",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "right",
+    "pos": "dis",
+    "meaning": "好的",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "run",
+    "pos": "v",
+    "meaning": "跑",
+    "level": "KET一级",
+    "initial": "R"
+  },
+  {
+    "word": "sad",
+    "pos": "adj",
+    "meaning": "伤心的",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "skateboarding",
+    "pos": "n",
+    "meaning": "滑板运动",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "Sam",
+    "pos": "n",
+    "meaning": "人名",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "skirt",
+    "pos": "n",
+    "meaning": "裙子",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sand",
+    "pos": "n",
+    "meaning": "沙子",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sleep",
+    "pos": "v",
+    "meaning": "睡觉",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sausage",
+    "pos": "n",
+    "meaning": "香肠",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "small",
+    "pos": "adj",
+    "meaning": "小的",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "say",
+    "pos": "v",
+    "meaning": "说",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "smile",
+    "pos": "n+v",
+    "meaning": "笑容；微笑",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "scary",
+    "pos": "adj",
+    "meaning": "可怕的",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "snake",
+    "pos": "n",
+    "meaning": "蛇",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "school",
+    "pos": "n",
+    "meaning": "学校",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "so",
+    "pos": "dis",
+    "meaning": "所以",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sea",
+    "pos": "n",
+    "meaning": "海",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "soccer (UK football)",
+    "pos": "n",
+    "meaning": "足球",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "see",
+    "pos": "v",
+    "meaning": "看见",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sock",
+    "pos": "n",
+    "meaning": "短袜",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "see you",
+    "pos": "excl",
+    "meaning": "再见",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sofa",
+    "pos": "n",
+    "meaning": "沙发",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sentence",
+    "pos": "n",
+    "meaning": "句子",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "some",
+    "pos": "det",
+    "meaning": "一些",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "she",
+    "pos": "pron",
+    "meaning": "她（主格）",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "song",
+    "pos": "n",
+    "meaning": "歌曲",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sheep (s+pl)",
+    "pos": "n",
+    "meaning": "山羊",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sorry",
+    "pos": "adj+int",
+    "meaning": "难过；对不起",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "shell",
+    "pos": "n",
+    "meaning": "（鸡蛋、海鲜、坚果）壳",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "spell",
+    "pos": "v",
+    "meaning": "拼写",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "ship",
+    "pos": "n",
+    "meaning": "船",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "spider",
+    "pos": "n",
+    "meaning": "蜘蛛",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "shirt",
+    "pos": "n",
+    "meaning": "衬衣",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sport",
+    "pos": "n",
+    "meaning": "运动",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "shoe",
+    "pos": "n",
+    "meaning": "鞋",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "stand",
+    "pos": "v",
+    "meaning": "站立",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "shop (US store)",
+    "pos": "n",
+    "meaning": "商店",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "stop",
+    "pos": "v",
+    "meaning": "停止",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "short",
+    "pos": "adj",
+    "meaning": "短的，矮的",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "store (UK shop)",
+    "pos": "n",
+    "meaning": "商店",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "shorts",
+    "pos": "n",
+    "meaning": "短裤",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "story",
+    "pos": "n",
+    "meaning": "故事",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "show",
+    "pos": "v",
+    "meaning": "展示",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "street",
+    "pos": "n",
+    "meaning": "街道",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "silly",
+    "pos": "adj",
+    "meaning": "愚蠢的",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "Sue",
+    "pos": "n",
+    "meaning": "人名",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sing",
+    "pos": "v",
+    "meaning": "唱歌",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sun",
+    "pos": "n",
+    "meaning": "太阳",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sister",
+    "pos": "n",
+    "meaning": "姐妹",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sweet(s) (US candy)",
+    "pos": "n",
+    "meaning": "糖果",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "sit",
+    "pos": "v",
+    "meaning": "坐",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "swim",
+    "pos": "v",
+    "meaning": "游泳",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "skateboard",
+    "pos": "n",
+    "meaning": "滑板",
+    "level": "KET一级",
+    "initial": "S"
+  },
+  {
+    "word": "table",
+    "pos": "n",
+    "meaning": "桌子",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "these",
+    "pos": "det+pron",
+    "meaning": "这些",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "table tennis",
+    "pos": "n",
+    "meaning": "乒乓球",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "they",
+    "pos": "pron",
+    "meaning": "他们，她们，它们",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tablet",
+    "pos": "n",
+    "meaning": "药片",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "thing",
+    "pos": "n",
+    "meaning": "东西；事件",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tall",
+    "pos": "adj",
+    "meaning": "高的",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "this",
+    "pos": "det+pron",
+    "meaning": "这；这个",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "take a phone / picture",
+    "pos": "v",
+    "meaning": "拍照",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "those",
+    "pos": "det+pron",
+    "meaning": "那些",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "talk",
+    "pos": "v",
+    "meaning": "谈话",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "throw",
+    "pos": "v",
+    "meaning": "扔",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "teacher",
+    "pos": "n",
+    "meaning": "老师",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tick",
+    "pos": "n+v",
+    "meaning": "勾；打勾",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "teddy (bear)",
+    "pos": "n",
+    "meaning": "泰迪熊",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tiger",
+    "pos": "n",
+    "meaning": "老虎",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "television/TV",
+    "pos": "n",
+    "meaning": "电视",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "to",
+    "pos": "prep",
+    "meaning": "去某个方向",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tell",
+    "pos": "v",
+    "meaning": "告诉",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "today",
+    "pos": "adv+n",
+    "meaning": "在今天；今天",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tennis",
+    "pos": "n",
+    "meaning": "网球",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "Tom",
+    "pos": "n",
+    "meaning": "人名",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tennis racket",
+    "pos": "n",
+    "meaning": "网球拍",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tomato",
+    "pos": "n",
+    "meaning": "西红柿",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "thank you",
+    "pos": "dis",
+    "meaning": "谢谢你",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "too",
+    "pos": "adv",
+    "meaning": "太",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "thanks",
+    "pos": "dis",
+    "meaning": "谢谢",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "toy",
+    "pos": "n",
+    "meaning": "玩具",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "that",
+    "pos": "det+pron",
+    "meaning": "那；那个",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "train",
+    "pos": "n",
+    "meaning": "火车",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "the",
+    "pos": "det",
+    "meaning": "指这个，那个(定冠词)",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "tree",
+    "pos": "n",
+    "meaning": "树",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "their",
+    "pos": "poss adj",
+    "meaning": "他们的",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "trousers",
+    "pos": "n",
+    "meaning": "裤子",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "theirs",
+    "pos": "pron",
+    "meaning": "他们的（物主代词）",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "truck (US lorry)",
+    "pos": "n",
+    "meaning": "卡车",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "them",
+    "pos": "pron",
+    "meaning": "他们（宾格）",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "try",
+    "pos": "n+v",
+    "meaning": "尝试；试",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "then",
+    "pos": "dis",
+    "meaning": "然后",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "T-shirt",
+    "pos": "n",
+    "meaning": "T恤",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "there",
+    "pos": "adv",
+    "meaning": "那里",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "TV / television",
+    "pos": "n",
+    "meaning": "电视",
+    "level": "KET一级",
+    "initial": "T"
+  },
+  {
+    "word": "ugly",
+    "pos": "adj",
+    "meaning": "丑的",
+    "level": "KET一级",
+    "initial": "U"
+  },
+  {
+    "word": "understand",
+    "pos": "v",
+    "meaning": "明白",
+    "level": "KET一级",
+    "initial": "U"
+  },
+  {
+    "word": "under",
+    "pos": "prep",
+    "meaning": "在…下面",
+    "level": "KET一级",
+    "initial": "U"
+  },
+  {
+    "word": "us",
+    "pos": "pron",
+    "meaning": "我们（宾格）",
+    "level": "KET一级",
+    "initial": "U"
+  },
+  {
+    "word": "very",
+    "pos": "adv",
+    "meaning": "很，非常",
+    "level": "KET一级",
+    "initial": "V"
+  },
+  {
+    "word": "walk",
+    "pos": "v",
+    "meaning": "走路",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "where",
+    "pos": "int",
+    "meaning": "哪里",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "wall",
+    "pos": "n",
+    "meaning": "墙壁",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "which",
+    "pos": "int",
+    "meaning": "哪一个",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "want",
+    "pos": "v",
+    "meaning": "想要",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "white",
+    "pos": "adj",
+    "meaning": "白色的",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "watch",
+    "pos": "n+v",
+    "meaning": "手表；观看",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "who",
+    "pos": "int",
+    "meaning": "谁",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "water",
+    "pos": "n",
+    "meaning": "水",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "whose",
+    "pos": "int",
+    "meaning": "谁的",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "watermelon",
+    "pos": "n",
+    "meaning": "西瓜",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "window",
+    "pos": "n",
+    "meaning": "窗户",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "wave",
+    "pos": "v",
+    "meaning": "挥手",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "with",
+    "pos": "prep",
+    "meaning": "和",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "we",
+    "pos": "pron",
+    "meaning": "我们（主格）",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "woman/women",
+    "pos": "n",
+    "meaning": "女人",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "wear",
+    "pos": "v",
+    "meaning": "穿，戴",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "word",
+    "pos": "n",
+    "meaning": "词",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "well",
+    "pos": "dis",
+    "meaning": "好",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "would like",
+    "pos": "v",
+    "meaning": "想要",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "well done",
+    "pos": "dis",
+    "meaning": "做得好",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "wow",
+    "pos": "excl",
+    "meaning": "哇，呀",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "what",
+    "pos": "int",
+    "meaning": "什么",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "write",
+    "pos": "v",
+    "meaning": "写",
+    "level": "KET一级",
+    "initial": "W"
+  },
+  {
+    "word": "year",
+    "pos": "n",
+    "meaning": "年",
+    "level": "KET一级",
+    "initial": "Y"
+  },
+  {
+    "word": "young",
+    "pos": "adj",
+    "meaning": "年轻的",
+    "level": "KET一级",
+    "initial": "Y"
+  },
+  {
+    "word": "yellow",
+    "pos": "adj",
+    "meaning": "黄色的",
+    "level": "KET一级",
+    "initial": "Y"
+  },
+  {
+    "word": "your",
+    "pos": "poss adj",
+    "meaning": "你的，你们的",
+    "level": "KET一级",
+    "initial": "Y"
+  },
+  {
+    "word": "yes",
+    "pos": "adv",
+    "meaning": "是，是的",
+    "level": "KET一级",
+    "initial": "Y"
+  },
+  {
+    "word": "yours",
+    "pos": "pron",
+    "meaning": "你的，你们的（物主代词）",
+    "level": "KET一级",
+    "initial": "Y"
+  },
+  {
+    "word": "you",
+    "pos": "pron",
+    "meaning": "你，你们（主，宾格）",
+    "level": "KET一级",
+    "initial": "Y"
+  },
+  {
+    "word": "zebra",
+    "pos": "n",
+    "meaning": "斑马",
+    "level": "KET一级",
+    "initial": "Z"
+  },
+  {
+    "word": "zoo",
+    "pos": "n",
+    "meaning": "动物园",
+    "level": "KET一级",
+    "initial": "Z"
+  },
+  {
+    "word": "above",
+    "pos": "prep",
+    "meaning": "在…上面",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "address",
+    "pos": "n",
+    "meaning": "地址",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "afraid",
+    "pos": "adj",
+    "meaning": "害怕的，（表示抱歉）恐怕",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "after",
+    "pos": "prep",
+    "meaning": "在…之后",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "age",
+    "pos": "n",
+    "meaning": "年龄",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "all",
+    "pos": "adj+adv+det+pron",
+    "meaning": "一切的，所有的",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "all right",
+    "pos": "adj+adv",
+    "meaning": "合意的",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "along",
+    "pos": "prep",
+    "meaning": "沿着",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "always",
+    "pos": "adv",
+    "meaning": "总是",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "another",
+    "pos": "det+pron",
+    "meaning": "另一个",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "any",
+    "pos": "det+pron",
+    "meaning": "任何的",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "app",
+    "pos": "n",
+    "meaning": "应用程序",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "around",
+    "pos": "prep",
+    "meaning": "围绕，在…附近",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "asleep",
+    "pos": "adj",
+    "meaning": "睡着的",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "at",
+    "pos": "prep of time",
+    "meaning": "在…（时间/时刻）",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "aunt",
+    "pos": "n",
+    "meaning": "伯母，阿姨，婶母，舅母",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "awake",
+    "pos": "adj",
+    "meaning": "醒着的",
+    "level": "KET二级",
+    "initial": "A"
+  },
+  {
+    "word": "back",
+    "pos": "adj+adv+n",
+    "meaning": "后面的；背部",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bad",
+    "pos": "adj",
+    "meaning": "坏的",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "badly",
+    "pos": "adv",
+    "meaning": "差；非常地",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "balcony",
+    "pos": "n",
+    "meaning": "阳台",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "band (music)",
+    "pos": "n",
+    "meaning": "乐队",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "basement",
+    "pos": "n",
+    "meaning": "地下室",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bat",
+    "pos": "n",
+    "meaning": "球棒，球拍",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "be called",
+    "pos": "v",
+    "meaning": "被称为",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "beard",
+    "pos": "n",
+    "meaning": "胡子",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "because",
+    "pos": "conj",
+    "meaning": "因为",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "before",
+    "pos": "prep",
+    "meaning": "在…之前",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "below",
+    "pos": "prep",
+    "meaning": "在…下面",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "best",
+    "pos": "adj+adv",
+    "meaning": "最好的；最出色地",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "better",
+    "pos": "adj+adv",
+    "meaning": "更好的",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "blanket",
+    "pos": "n",
+    "meaning": "毛毯",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "blond(e)",
+    "pos": "adj",
+    "meaning": "金色的（指头发）",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "boring",
+    "pos": "adj",
+    "meaning": "无聊的",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "both",
+    "pos": "det+pron",
+    "meaning": "两个",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bottle",
+    "pos": "n",
+    "meaning": "瓶子",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bottom",
+    "pos": "adj+n",
+    "meaning": "底部",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bowl",
+    "pos": "n",
+    "meaning": "碗",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "brave",
+    "pos": "adj",
+    "meaning": "勇敢的",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "break",
+    "pos": "n",
+    "meaning": "间隙，休息",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "brilliant",
+    "pos": "adj+excl",
+    "meaning": "精彩的，明亮的",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bring",
+    "pos": "v",
+    "meaning": "带来",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "build",
+    "pos": "v",
+    "meaning": "建造",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "building",
+    "pos": "n",
+    "meaning": "建筑物",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bus station",
+    "pos": "n",
+    "meaning": "公共汽车站",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "bus stop",
+    "pos": "n",
+    "meaning": "公共汽车（停靠站）",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "busy",
+    "pos": "adj",
+    "meaning": "忙碌的",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "buy",
+    "pos": "v",
+    "meaning": "购买",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "by",
+    "pos": "prep",
+    "meaning": "由，经，在…旁",
+    "level": "KET二级",
+    "initial": "B"
+  },
+  {
+    "word": "café",
+    "pos": "n",
+    "meaning": "小餐馆，酒吧",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cage",
+    "pos": "n",
+    "meaning": "笼子",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "call",
+    "pos": "v",
+    "meaning": "给…打电话，呼唤",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "car park",
+    "pos": "n",
+    "meaning": "停车场",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "careful",
+    "pos": "adj",
+    "meaning": "认真的，小心谨慎的",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "carefully",
+    "pos": "adv",
+    "meaning": "认真地，小心谨慎地",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "carry",
+    "pos": "v",
+    "meaning": "搬运",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "catch (eg. a bus)",
+    "pos": "v",
+    "meaning": "赶车",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "CD",
+    "pos": "n",
+    "meaning": "光盘",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "centre (US center)",
+    "pos": "n",
+    "meaning": "中心",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "change",
+    "pos": "v",
+    "meaning": "改变",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "Charlie",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cheese",
+    "pos": "n",
+    "meaning": "芝士，奶酪",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cinema",
+    "pos": "n",
+    "meaning": "电影院",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "city",
+    "pos": "n",
+    "meaning": "城市",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "city/town centre",
+    "pos": "n",
+    "meaning": "市中心",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "Clare",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "clever",
+    "pos": "adj",
+    "meaning": "聪明的",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "climb",
+    "pos": "v",
+    "meaning": "攀爬，攀登",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cloud",
+    "pos": "n",
+    "meaning": "云",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cloudy",
+    "pos": "adj",
+    "meaning": "多云的，阴天的",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "clown",
+    "pos": "n",
+    "meaning": "小丑，丑角",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "coat",
+    "pos": "n",
+    "meaning": "外套，上衣",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "coffee",
+    "pos": "n",
+    "meaning": "咖啡",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cold",
+    "pos": "adj+n",
+    "meaning": "寒冷的；寒冷",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "come on",
+    "pos": "excl",
+    "meaning": "加油，快来！",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "comic",
+    "pos": "n",
+    "meaning": "连环画",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "comic book",
+    "pos": "n",
+    "meaning": "连环画（美式）",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cook",
+    "pos": "n+v",
+    "meaning": "厨师；做饭",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cough",
+    "pos": "n",
+    "meaning": "咳嗽",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "could (as in past of can for ability)",
+    "pos": "v",
+    "meaning": "能，可以（过去的能力）",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "country",
+    "pos": "n",
+    "meaning": "国家",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "countryside",
+    "pos": "n",
+    "meaning": "乡村",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cry",
+    "pos": "v",
+    "meaning": "哭",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "cup",
+    "pos": "n",
+    "meaning": "杯子",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "curly",
+    "pos": "adj",
+    "meaning": "卷曲的，卷发的",
+    "level": "KET二级",
+    "initial": "C"
+  },
+  {
+    "word": "Daisy",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "dance",
+    "pos": "n+v",
+    "meaning": "舞蹈；跳舞",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "dangerous",
+    "pos": "adj",
+    "meaning": "危险的",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "daughter",
+    "pos": "n",
+    "meaning": "女儿",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "dentist",
+    "pos": "n",
+    "meaning": "牙科医生",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "difference",
+    "pos": "n",
+    "meaning": "差别，不同",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "different",
+    "pos": "adj",
+    "meaning": "不同的",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "difficult",
+    "pos": "adj",
+    "meaning": "困难的",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "doctor",
+    "pos": "n",
+    "meaning": "医生，博士",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "dolphin",
+    "pos": "n",
+    "meaning": "海豚",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "down",
+    "pos": "adv+prep",
+    "meaning": "向下，朝下；沿着…向下",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "downstairs",
+    "pos": "adv+n",
+    "meaning": "在楼下；楼下",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "dream",
+    "pos": "n+v",
+    "meaning": "梦，梦想；做梦",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "dress up",
+    "pos": "v",
+    "meaning": "装扮",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "drive",
+    "pos": "n",
+    "meaning": "开车，驾驶",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "driver",
+    "pos": "n",
+    "meaning": "司机",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "drop",
+    "pos": "v",
+    "meaning": "掉下，放下",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "dry",
+    "pos": "adj+v",
+    "meaning": "干燥的；弄干",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "DVD",
+    "pos": "n",
+    "meaning": "视频光盘",
+    "level": "KET二级",
+    "initial": "D"
+  },
+  {
+    "word": "earache",
+    "pos": "n",
+    "meaning": "耳痛",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "easy",
+    "pos": "adj",
+    "meaning": "容易的，简单的",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "e-book",
+    "pos": "n",
+    "meaning": "电子书",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "elevator(UK lift)",
+    "pos": "n",
+    "meaning": "电梯",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "email",
+    "pos": "n+v",
+    "meaning": "电子邮件",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "every",
+    "pos": "det",
+    "meaning": "每一个",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "everyone",
+    "pos": "pron",
+    "meaning": "每个人",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "everything",
+    "pos": "pron",
+    "meaning": "每件东西，每件事",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "exciting",
+    "pos": "adj",
+    "meaning": "令人激动的",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "excuse me",
+    "pos": "dis",
+    "meaning": "请原谅，打扰一下",
+    "level": "KET二级",
+    "initial": "E"
+  },
+  {
+    "word": "fair",
+    "pos": "adj",
+    "meaning": "公正的，合理的",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "fall",
+    "pos": "v",
+    "meaning": "落下，倒下",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "famous",
+    "pos": "adj",
+    "meaning": "著名的，有名的",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "farm",
+    "pos": "n",
+    "meaning": "农场",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "farmer",
+    "pos": "n",
+    "meaning": "农场主，农民",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "fat",
+    "pos": "adj",
+    "meaning": "胖的",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "feed",
+    "pos": "v",
+    "meaning": "喂，给…食物",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "field",
+    "pos": "n",
+    "meaning": "田地",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "film (US movie)",
+    "pos": "n+v",
+    "meaning": "电影",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "film (US movie) star",
+    "pos": "n",
+    "meaning": "电影明星",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "fine",
+    "pos": "adj+excl",
+    "meaning": "很好的，可以的",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "first",
+    "pos": "adj+adv",
+    "meaning": "第一",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "fish",
+    "pos": "v",
+    "meaning": "钓鱼，捕鱼",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "fix",
+    "pos": "v",
+    "meaning": "使…固定，安装",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "floor",
+    "pos": "n",
+    "meaning": "楼层",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "fly",
+    "pos": "n",
+    "meaning": "苍蝇",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "forest",
+    "pos": "n",
+    "meaning": "森林",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "Fred",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "Friday",
+    "pos": "n",
+    "meaning": "星期五",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "frightened",
+    "pos": "adj",
+    "meaning": "使…惊恐",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "funfair",
+    "pos": "n",
+    "meaning": "游乐场",
+    "level": "KET二级",
+    "initial": "F"
+  },
+  {
+    "word": "get dressed",
+    "pos": "v",
+    "meaning": "穿衣",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "get off",
+    "pos": "v",
+    "meaning": "下车，下来",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "get on",
+    "pos": "v",
+    "meaning": "上车",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "get undressed",
+    "pos": "v",
+    "meaning": "脱衣",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "get up",
+    "pos": "v",
+    "meaning": "起床",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "glass",
+    "pos": "n",
+    "meaning": "玻璃",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "go shopping",
+    "pos": "v",
+    "meaning": "去购物",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "goal",
+    "pos": "n",
+    "meaning": "目标",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "granddaughter",
+    "pos": "n",
+    "meaning": "孙女，外孙女",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "grandparent",
+    "pos": "n",
+    "meaning": "（外）祖父，（外）祖母",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "grandson",
+    "pos": "n",
+    "meaning": "孙子，外孙子",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "grass",
+    "pos": "n",
+    "meaning": "草",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "ground",
+    "pos": "n",
+    "meaning": "地面，土地",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "grow",
+    "pos": "v",
+    "meaning": "生长，增长",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "grown-up",
+    "pos": "n",
+    "meaning": "成年人",
+    "level": "KET二级",
+    "initial": "G"
+  },
+  {
+    "word": "have (got) to",
+    "pos": "v",
+    "meaning": "不得不",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "headache",
+    "pos": "n",
+    "meaning": "头痛",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "helmet",
+    "pos": "n",
+    "meaning": "头盔",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "help",
+    "pos": "v",
+    "meaning": "帮助",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "hide",
+    "pos": "v",
+    "meaning": "把…藏起来",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "holiday",
+    "pos": "n",
+    "meaning": "假期，节假日",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "homework",
+    "pos": "n",
+    "meaning": "家庭作业",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "hop",
+    "pos": "v",
+    "meaning": "单足跳",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "hospital",
+    "pos": "n",
+    "meaning": "医院",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "hot",
+    "pos": "adj",
+    "meaning": "热的",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "how",
+    "pos": "adv",
+    "meaning": "如何，怎样",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "how much",
+    "pos": "adv+int",
+    "meaning": "多少，多少钱",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "how often",
+    "pos": "adv",
+    "meaning": "多久一次",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "huge",
+    "pos": "adj",
+    "meaning": "极大的，极多的",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "hundred",
+    "pos": "n",
+    "meaning": "一百",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "hungry",
+    "pos": "adj",
+    "meaning": "饥饿的",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "hurt",
+    "pos": "adj",
+    "meaning": "使受伤，使疼痛",
+    "level": "KET二级",
+    "initial": "H"
+  },
+  {
+    "word": "ice",
+    "pos": "n",
+    "meaning": "冰，冰块",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "ice skates",
+    "pos": "n",
+    "meaning": "溜冰鞋",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "ice skating",
+    "pos": "n",
+    "meaning": "溜冰",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "idea",
+    "pos": "n",
+    "meaning": "主意，看法",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "ill",
+    "pos": "adj",
+    "meaning": "有病的",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "inside",
+    "pos": "adv+n+prep",
+    "meaning": "在里面；里面；在…里",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "internet",
+    "pos": "n",
+    "meaning": "互联网",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "into",
+    "pos": "prep",
+    "meaning": "到…里，向…内",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "invite",
+    "pos": "v",
+    "meaning": "邀请",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "island",
+    "pos": "n",
+    "meaning": "岛屿",
+    "level": "KET二级",
+    "initial": "I"
+  },
+  {
+    "word": "Jack",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "J"
+  },
+  {
+    "word": "Jane",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "J"
+  },
+  {
+    "word": "Jim",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "J"
+  },
+  {
+    "word": "Julia",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "J"
+  },
+  {
+    "word": "jungle",
+    "pos": "n",
+    "meaning": "热带丛林",
+    "level": "KET二级",
+    "initial": "J"
+  },
+  {
+    "word": "kangaroo",
+    "pos": "n",
+    "meaning": "袋鼠",
+    "level": "KET二级",
+    "initial": "K"
+  },
+  {
+    "word": "kick",
+    "pos": "n",
+    "meaning": "踢",
+    "level": "KET二级",
+    "initial": "K"
+  },
+  {
+    "word": "kind",
+    "pos": "n",
+    "meaning": "种类",
+    "level": "KET二级",
+    "initial": "K"
+  },
+  {
+    "word": "kitten",
+    "pos": "n",
+    "meaning": "小猫",
+    "level": "KET二级",
+    "initial": "K"
+  },
+  {
+    "word": "lake",
+    "pos": "n",
+    "meaning": "湖",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "laptop",
+    "pos": "n",
+    "meaning": "笔记本电脑",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "last",
+    "pos": "adj+adv",
+    "meaning": "最后的；在最后，最近",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "laugh",
+    "pos": "n+v",
+    "meaning": "笑声；笑",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "leaf/leaves",
+    "pos": "n",
+    "meaning": "叶子",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "library",
+    "pos": "n",
+    "meaning": "图书馆",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "lift (US elevator)",
+    "pos": "n",
+    "meaning": "电梯",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "Lily",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "lion",
+    "pos": "n",
+    "meaning": "狮子",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "little",
+    "pos": "adj",
+    "meaning": "小的，少的，年幼的",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "look for",
+    "pos": "v",
+    "meaning": "寻找",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "lose",
+    "pos": "v",
+    "meaning": "丢失",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "loud",
+    "pos": "adj",
+    "meaning": "大声的",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "loudly",
+    "pos": "adv",
+    "meaning": "大声地",
+    "level": "KET二级",
+    "initial": "L"
+  },
+  {
+    "word": "machine",
+    "pos": "n",
+    "meaning": "机器",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "map",
+    "pos": "n",
+    "meaning": "地图",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "market",
+    "pos": "n",
+    "meaning": "市场",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "Mary",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "matter",
+    "pos": "n",
+    "meaning": "事情",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "mean",
+    "pos": "v",
+    "meaning": "表示…的意思",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "message",
+    "pos": "n",
+    "meaning": "信息",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "milkshake",
+    "pos": "n",
+    "meaning": "奶昔",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "mistake",
+    "pos": "n",
+    "meaning": "错误",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "model",
+    "pos": "n",
+    "meaning": "模型",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "Monday",
+    "pos": "n",
+    "meaning": "星期一",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "moon",
+    "pos": "n",
+    "meaning": "月亮",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "more",
+    "pos": "adv+det+pron",
+    "meaning": "更加；比…更多的；更多",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "most",
+    "pos": "adv+det+pron",
+    "meaning": "最多地；大多数的；最大量",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "mountain",
+    "pos": "n",
+    "meaning": "山",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "moustache",
+    "pos": "n",
+    "meaning": "小胡子",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "move",
+    "pos": "v",
+    "meaning": "移动",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "movie (UK film)",
+    "pos": "n",
+    "meaning": "电影",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "must",
+    "pos": "v",
+    "meaning": "必须",
+    "level": "KET二级",
+    "initial": "M"
+  },
+  {
+    "word": "naughty",
+    "pos": "adj",
+    "meaning": "顽皮的",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "near",
+    "pos": "adv+prep",
+    "meaning": "附近；靠近",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "neck",
+    "pos": "n",
+    "meaning": "脖子",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "need",
+    "pos": "v",
+    "meaning": "需要",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "net",
+    "pos": "n",
+    "meaning": "网",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "never",
+    "pos": "adv",
+    "meaning": "从不",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "noise",
+    "pos": "n",
+    "meaning": "噪声",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "noodles",
+    "pos": "n",
+    "meaning": "面条",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "nothing",
+    "pos": "pron",
+    "meaning": "没有什么",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "nurse",
+    "pos": "n",
+    "meaning": "护士",
+    "level": "KET二级",
+    "initial": "N"
+  },
+  {
+    "word": "o’clock",
+    "pos": "adv",
+    "meaning": "…点钟",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "off",
+    "pos": "adv+prep",
+    "meaning": "离开；从…离开",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "often",
+    "pos": "adv",
+    "meaning": "经常",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "on",
+    "pos": "adv+prep of time",
+    "meaning": "在（日期/星期等时间词）",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "only",
+    "pos": "adv",
+    "meaning": "仅仅",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "opposite",
+    "pos": "prep",
+    "meaning": "在…对面",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "out",
+    "pos": "adv",
+    "meaning": "在外面",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "out of",
+    "pos": "prep",
+    "meaning": "从…里出来",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "outside",
+    "pos": "adv+n+prep",
+    "meaning": "在外面；外面；在…外面",
+    "level": "KET二级",
+    "initial": "O"
+  },
+  {
+    "word": "pair",
+    "pos": "n",
+    "meaning": "一双",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "pancake",
+    "pos": "n",
+    "meaning": "薄煎饼",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "panda",
+    "pos": "n",
+    "meaning": "熊猫",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "parent",
+    "pos": "n",
+    "meaning": "父亲母亲",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "parrot",
+    "pos": "n",
+    "meaning": "鹦鹉",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "party",
+    "pos": "n",
+    "meaning": "聚会",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "pasta",
+    "pos": "n",
+    "meaning": "意大利面",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "Paul",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "penguin",
+    "pos": "n",
+    "meaning": "企鹅",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "Peter",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "picnic",
+    "pos": "n",
+    "meaning": "野餐",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "pirate",
+    "pos": "n",
+    "meaning": "海盗",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "place",
+    "pos": "n",
+    "meaning": "地方，地点",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "plant",
+    "pos": "n+v",
+    "meaning": "植物；种植",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "plate",
+    "pos": "n",
+    "meaning": "盘子",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "player",
+    "pos": "n",
+    "meaning": "运动员",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "pool",
+    "pos": "n",
+    "meaning": "池塘",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "pop star",
+    "pos": "n",
+    "meaning": "流行明星",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "practice",
+    "pos": "n",
+    "meaning": "实践，练习",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "practise",
+    "pos": "v",
+    "meaning": "练习",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "present",
+    "pos": "n",
+    "meaning": "礼物",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "pretty",
+    "pos": "adj",
+    "meaning": "漂亮的，悦耳的",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "puppy",
+    "pos": "n",
+    "meaning": "幼犬",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "put on",
+    "pos": "v",
+    "meaning": "穿，戴",
+    "level": "KET二级",
+    "initial": "P"
+  },
+  {
+    "word": "quick",
+    "pos": "adj",
+    "meaning": "快的",
+    "level": "KET二级",
+    "initial": "Q"
+  },
+  {
+    "word": "quickly",
+    "pos": "adv",
+    "meaning": "快速地",
+    "level": "KET二级",
+    "initial": "Q"
+  },
+  {
+    "word": "quiet",
+    "pos": "adj",
+    "meaning": "安静的",
+    "level": "KET二级",
+    "initial": "Q"
+  },
+  {
+    "word": "quietly",
+    "pos": "adv",
+    "meaning": "轻轻地",
+    "level": "KET二级",
+    "initial": "Q"
+  },
+  {
+    "word": "rabbit",
+    "pos": "n",
+    "meaning": "兔子",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "rain",
+    "pos": "n+v",
+    "meaning": "雨；下雨",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "rainbow",
+    "pos": "n",
+    "meaning": "彩虹",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "ride",
+    "pos": "v",
+    "meaning": "骑",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "river",
+    "pos": "n",
+    "meaning": "河流",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "road",
+    "pos": "n",
+    "meaning": "道路",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "rock",
+    "pos": "n",
+    "meaning": "岩石",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "roller skates",
+    "pos": "n",
+    "meaning": "旱冰鞋",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "roller skating",
+    "pos": "n",
+    "meaning": "溜旱冰",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "roof",
+    "pos": "n",
+    "meaning": "屋顶，车顶",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "round",
+    "pos": "adj+adv+prep",
+    "meaning": "圆形的；旋转地；围绕",
+    "level": "KET二级",
+    "initial": "R"
+  },
+  {
+    "word": "safe",
+    "pos": "adj",
+    "meaning": "安全的，平安的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sail",
+    "pos": "n+v",
+    "meaning": "帆；航行",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "salad",
+    "pos": "n",
+    "meaning": "沙拉",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "Sally",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sandwich",
+    "pos": "n",
+    "meaning": "三明治",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "Saturday",
+    "pos": "n",
+    "meaning": "星期六",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sauce",
+    "pos": "n",
+    "meaning": "调味汁",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "scarf",
+    "pos": "n",
+    "meaning": "头巾，围巾，披肩",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "score",
+    "pos": "v",
+    "meaning": "给…得分",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "seat",
+    "pos": "n",
+    "meaning": "座位",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "second",
+    "pos": "adj+adv",
+    "meaning": "第二的；第二位地",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "send",
+    "pos": "v",
+    "meaning": "发送",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shall",
+    "pos": "v",
+    "meaning": "将，应该",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shape",
+    "pos": "n",
+    "meaning": "形状",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shark",
+    "pos": "n",
+    "meaning": "鲨鱼",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shop",
+    "pos": "v",
+    "meaning": "购物",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shopping",
+    "pos": "n",
+    "meaning": "购物",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shopping centre(US center)",
+    "pos": "n",
+    "meaning": "购物中心",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shoulder",
+    "pos": "n",
+    "meaning": "肩膀",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shout",
+    "pos": "v",
+    "meaning": "大喊",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "shower",
+    "pos": "n",
+    "meaning": "阵雨，淋浴",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sick",
+    "pos": "adj",
+    "meaning": "有病的，身体不适的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "skate",
+    "pos": "n+v",
+    "meaning": "冰鞋",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "skip",
+    "pos": "v",
+    "meaning": "跳过",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sky",
+    "pos": "n",
+    "meaning": "天空",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "slow",
+    "pos": "adj",
+    "meaning": "缓慢的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "slowly",
+    "pos": "adv",
+    "meaning": "慢慢地",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "snail",
+    "pos": "n",
+    "meaning": "蜗牛",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "snow",
+    "pos": "n+v",
+    "meaning": "雪；下雪",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "someone",
+    "pos": "pron",
+    "meaning": "某人",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "something",
+    "pos": "pron",
+    "meaning": "某事物",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sometimes",
+    "pos": "adv",
+    "meaning": "有时候",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "son",
+    "pos": "n",
+    "meaning": "儿子",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "soup",
+    "pos": "n",
+    "meaning": "汤",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sports centre(US center)",
+    "pos": "n",
+    "meaning": "体育中心",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "square",
+    "pos": "adj+n",
+    "meaning": "正方形的；广场，正方形",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "stair(s)",
+    "pos": "n",
+    "meaning": "楼梯",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "star",
+    "pos": "n",
+    "meaning": "星星，明星",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "station",
+    "pos": "n",
+    "meaning": "车站，火车站",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "stomach",
+    "pos": "n",
+    "meaning": "胃",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "stomach-ache",
+    "pos": "n",
+    "meaning": "胃痛",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "straight",
+    "pos": "adj",
+    "meaning": "直的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "strong",
+    "pos": "adj",
+    "meaning": "强壮的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "Sunday",
+    "pos": "n",
+    "meaning": "星期天",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sunny",
+    "pos": "adj",
+    "meaning": "阳光明媚的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "supermarket",
+    "pos": "n",
+    "meaning": "超市",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "surprised",
+    "pos": "adj",
+    "meaning": "惊讶的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sweater",
+    "pos": "n",
+    "meaning": "毛衣",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "sweet",
+    "pos": "adj",
+    "meaning": "甜的",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "swim",
+    "pos": "n",
+    "meaning": "游泳",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "swimming pool",
+    "pos": "n",
+    "meaning": "游泳池",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "swimsuit",
+    "pos": "n",
+    "meaning": "游泳衣",
+    "level": "KET二级",
+    "initial": "S"
+  },
+  {
+    "word": "take",
+    "pos": "v",
+    "meaning": "携带，拿",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "take off",
+    "pos": "v",
+    "meaning": "脱下",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "tall",
+    "pos": "adj",
+    "meaning": "高的",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "tea",
+    "pos": "n",
+    "meaning": "茶",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "teach",
+    "pos": "v",
+    "meaning": "教",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "temperature",
+    "pos": "n",
+    "meaning": "温度",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "terrible",
+    "pos": "adj",
+    "meaning": "可怕的，严重的",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "text",
+    "pos": "n+v",
+    "meaning": "课文，文本；给…发短信",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "than",
+    "pos": "conj+prep",
+    "meaning": "比",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "then",
+    "pos": "adv",
+    "meaning": "当时，然后",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "thin",
+    "pos": "adj",
+    "meaning": "瘦的，薄的",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "think",
+    "pos": "v",
+    "meaning": "想，思考，考虑",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "third",
+    "pos": "adj+adv",
+    "meaning": "第三的",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "thirsty",
+    "pos": "adj",
+    "meaning": "口渴的",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "Thursday",
+    "pos": "n",
+    "meaning": "星期四",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "ticket",
+    "pos": "n",
+    "meaning": "票",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "tired",
+    "pos": "adj",
+    "meaning": "疲劳的，累的",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "tooth/teeth",
+    "pos": "n",
+    "meaning": "牙齿",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "toothache",
+    "pos": "n",
+    "meaning": "牙痛",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "toothbrush",
+    "pos": "n",
+    "meaning": "牙刷",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "toothpaste",
+    "pos": "n",
+    "meaning": "牙膏",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "top",
+    "pos": "adj+n",
+    "meaning": "最上面的；顶部",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "towel",
+    "pos": "n",
+    "meaning": "毛巾",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "town",
+    "pos": "n",
+    "meaning": "城镇",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "town/city centre",
+    "pos": "n",
+    "meaning": "市中心",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "tractor",
+    "pos": "n",
+    "meaning": "拖拉机",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "travel",
+    "pos": "v",
+    "meaning": "旅行",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "treasure",
+    "pos": "n",
+    "meaning": "珍宝，宝物",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "trip",
+    "pos": "n",
+    "meaning": "旅行",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "Tuesday",
+    "pos": "n",
+    "meaning": "星期二",
+    "level": "KET二级",
+    "initial": "T"
+  },
+  {
+    "word": "uncle",
+    "pos": "n",
+    "meaning": "叔叔，舅舅，伯父，姑父",
+    "level": "KET二级",
+    "initial": "U"
+  },
+  {
+    "word": "up",
+    "pos": "adv+prep",
+    "meaning": "在上面，向上；在…上面",
+    "level": "KET二级",
+    "initial": "U"
+  },
+  {
+    "word": "upstairs",
+    "pos": "adv+n",
+    "meaning": "楼上的，在楼上的；楼上",
+    "level": "KET二级",
+    "initial": "U"
+  },
+  {
+    "word": "vegetable",
+    "pos": "n",
+    "meaning": "蔬菜",
+    "level": "KET二级",
+    "initial": "V"
+  },
+  {
+    "word": "Vicky",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "V"
+  },
+  {
+    "word": "video",
+    "pos": "n+v",
+    "meaning": "录像；给…录像",
+    "level": "KET二级",
+    "initial": "V"
+  },
+  {
+    "word": "village",
+    "pos": "n",
+    "meaning": "村庄",
+    "level": "KET二级",
+    "initial": "V"
+  },
+  {
+    "word": "wait",
+    "pos": "v",
+    "meaning": "等待，等候",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "wake (up)",
+    "pos": "v",
+    "meaning": "叫醒，醒来",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "walk",
+    "pos": "n",
+    "meaning": "步行",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "wash",
+    "pos": "n+v",
+    "meaning": "洗",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "water",
+    "pos": "v",
+    "meaning": "给…浇水",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "waterfall",
+    "pos": "n",
+    "meaning": "瀑布",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "wave",
+    "pos": "n",
+    "meaning": "波浪",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "weak",
+    "pos": "adj",
+    "meaning": "虚弱的",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "weather",
+    "pos": "n",
+    "meaning": "天气",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "website",
+    "pos": "n",
+    "meaning": "网址",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "Wednesday",
+    "pos": "n",
+    "meaning": "星期三",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "week",
+    "pos": "n",
+    "meaning": "星期",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "weekend",
+    "pos": "n",
+    "meaning": "周末",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "well",
+    "pos": "adj+adv",
+    "meaning": "健康的，好的；好",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "wet",
+    "pos": "adj",
+    "meaning": "湿的",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "whale",
+    "pos": "n",
+    "meaning": "鲸",
+    "level": "KET二级",
+    "initial": "W"
+  },
+  {
+    "word": "yesterday",
+    "pos": "adv+n",
+    "meaning": "昨天",
+    "level": "KET二级",
+    "initial": "Y"
+  },
+  {
+    "word": "Zoe",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET二级",
+    "initial": "Z"
+  },
+  {
+    "word": "a.m. (for time)",
+    "pos": "adv",
+    "meaning": "上午",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "across",
+    "pos": "prep",
+    "meaning": "横穿过",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "act",
+    "pos": "v",
+    "meaning": "表演，表现",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "actor",
+    "pos": "n",
+    "meaning": "演员",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "actually",
+    "pos": "adv",
+    "meaning": "的确，实际上",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "adventure",
+    "pos": "n",
+    "meaning": "冒险活动",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "after",
+    "pos": "adv+conj",
+    "meaning": "之后；在…以后",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "ago",
+    "pos": "adv",
+    "meaning": "以前",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "agree",
+    "pos": "v",
+    "meaning": "同意",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "air",
+    "pos": "n",
+    "meaning": "空气",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "airport",
+    "pos": "n",
+    "meaning": "机场",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "alone",
+    "pos": "adj",
+    "meaning": "独自的，单独的",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "already",
+    "pos": "adv",
+    "meaning": "已经",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "also",
+    "pos": "adv",
+    "meaning": "也",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "amazing",
+    "pos": "adj+excl",
+    "meaning": "使人十分惊奇的",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "ambulance",
+    "pos": "n",
+    "meaning": "救护车",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "anyone",
+    "pos": "pron",
+    "meaning": "任何人",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "anything",
+    "pos": "pron",
+    "meaning": "任何事物",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "anywhere",
+    "pos": "adv",
+    "meaning": "任何地方",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "appear",
+    "pos": "v",
+    "meaning": "出现",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "art",
+    "pos": "n",
+    "meaning": "美术，艺术",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "artist",
+    "pos": "n",
+    "meaning": "艺术家",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "as",
+    "pos": "adv",
+    "meaning": "像…一样",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "as…as",
+    "pos": "adv",
+    "meaning": "与…同样的",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "astronaut",
+    "pos": "n",
+    "meaning": "宇航员",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "at the moment",
+    "pos": "adv",
+    "meaning": "此刻，当时",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "August",
+    "pos": "n",
+    "meaning": "八月",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "autumn (US fall)",
+    "pos": "n",
+    "meaning": "秋天",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "away",
+    "pos": "adv",
+    "meaning": "离开，在远处",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "backpack (UK rucksack)",
+    "pos": "n",
+    "meaning": "背包",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bandage",
+    "pos": "n",
+    "meaning": "绷带",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bank",
+    "pos": "n",
+    "meaning": "银行",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "beetle",
+    "pos": "n",
+    "meaning": "甲虫",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "before",
+    "pos": "adv+conj",
+    "meaning": "以前；在…以前",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "begin",
+    "pos": "v",
+    "meaning": "开始",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "believe",
+    "pos": "v",
+    "meaning": "相信",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "belt",
+    "pos": "n",
+    "meaning": "腰带",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "Betty",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bicycle",
+    "pos": "n",
+    "meaning": "自行车",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bin",
+    "pos": "v",
+    "meaning": "垃圾箱",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "biscuit (US cookie)",
+    "pos": "n",
+    "meaning": "饼干",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bit",
+    "pos": "n",
+    "meaning": "一小块",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bored",
+    "pos": "adj",
+    "meaning": "厌倦的",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "borrow",
+    "pos": "v",
+    "meaning": "借",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bracelet",
+    "pos": "n",
+    "meaning": "手镯",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "break",
+    "pos": "v",
+    "meaning": "打破，折断",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "bridge",
+    "pos": "n",
+    "meaning": "桥梁",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "broken",
+    "pos": "adj",
+    "meaning": "损坏的，破碎的",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "brush",
+    "pos": "n+v",
+    "meaning": "刷子；刷",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "burn",
+    "pos": "v",
+    "meaning": "烧，烧毁",
+    "level": "KET三级",
+    "initial": "B"
+  },
+  {
+    "word": "calendar",
+    "pos": "n",
+    "meaning": "日历",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "camel",
+    "pos": "n",
+    "meaning": "骆驼",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "camp",
+    "pos": "v",
+    "meaning": "露营",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "card",
+    "pos": "n",
+    "meaning": "卡片",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cartoon",
+    "pos": "n",
+    "meaning": "动画片",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "castle",
+    "pos": "n",
+    "meaning": "城堡",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cave",
+    "pos": "n",
+    "meaning": "洞穴",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "century",
+    "pos": "n",
+    "meaning": "世纪，一百年",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cereal",
+    "pos": "n",
+    "meaning": "谷物",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "channel",
+    "pos": "n",
+    "meaning": "电视台，频道",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "chat",
+    "pos": "v",
+    "meaning": "聊天",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cheap",
+    "pos": "adj",
+    "meaning": "便宜的",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "chemist(’s)",
+    "pos": "n",
+    "meaning": "药剂师，药店",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "chess",
+    "pos": "n",
+    "meaning": "国际象棋",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "chopsticks",
+    "pos": "n",
+    "meaning": "筷子",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "club",
+    "pos": "n",
+    "meaning": "俱乐部",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "collect",
+    "pos": "v",
+    "meaning": "收集",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "college",
+    "pos": "n",
+    "meaning": "学院，大学",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "comb",
+    "pos": "n+v",
+    "meaning": "梳子，梳理",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "competition",
+    "pos": "n",
+    "meaning": "比赛，竞争",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "concert",
+    "pos": "n",
+    "meaning": "音乐会",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "conversation",
+    "pos": "n",
+    "meaning": "谈话，交谈",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cooker",
+    "pos": "n",
+    "meaning": "炉灶",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cookie (UK biscuit)",
+    "pos": "n",
+    "meaning": "饼干",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "corner",
+    "pos": "n",
+    "meaning": "角落",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "costume",
+    "pos": "n",
+    "meaning": "服装，戏装",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "could(for possibility)",
+    "pos": "v",
+    "meaning": "能，可以（有某种能力）",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "creature",
+    "pos": "n",
+    "meaning": "动物，人",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "crown",
+    "pos": "n",
+    "meaning": "皇冠，王位",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cushion",
+    "pos": "n",
+    "meaning": "垫子",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cut",
+    "pos": "v",
+    "meaning": "切",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "cycle",
+    "pos": "n",
+    "meaning": "循环",
+    "level": "KET三级",
+    "initial": "C"
+  },
+  {
+    "word": "dark",
+    "pos": "adj",
+    "meaning": "黑暗的，深色的",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "date(as in time)",
+    "pos": "n",
+    "meaning": "日期",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "David",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "dear(as in Dear Harry)",
+    "pos": "adj",
+    "meaning": "亲爱的，珍爱的",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "December",
+    "pos": "n",
+    "meaning": "十二月",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "decide",
+    "pos": "v",
+    "meaning": "决定",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "deep",
+    "pos": "adj",
+    "meaning": "深的",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "delicious",
+    "pos": "adj",
+    "meaning": "美味可口的",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "desert",
+    "pos": "n",
+    "meaning": "沙漠",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "design",
+    "pos": "n+v",
+    "meaning": "设计艺术；设计",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "designer",
+    "pos": "n",
+    "meaning": "设计师",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "diary",
+    "pos": "n",
+    "meaning": "记事簿，日记",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "dictionary",
+    "pos": "n",
+    "meaning": "词典",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "dinosaur",
+    "pos": "n",
+    "meaning": "恐龙",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "disappear",
+    "pos": "v",
+    "meaning": "消失",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "drum",
+    "pos": "n",
+    "meaning": "鼓",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "during",
+    "pos": "prep",
+    "meaning": "在…期间",
+    "level": "KET三级",
+    "initial": "D"
+  },
+  {
+    "word": "each",
+    "pos": "det+pron",
+    "meaning": "每个",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "eagle",
+    "pos": "n",
+    "meaning": "鹰",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "early",
+    "pos": "adj+adv",
+    "meaning": "早的；提早",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "Earth",
+    "pos": "n",
+    "meaning": "地球",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "east",
+    "pos": "n",
+    "meaning": "东方",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "elbow",
+    "pos": "n",
+    "meaning": "肘",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "else",
+    "pos": "adv",
+    "meaning": "其他",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "Emma",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "empty",
+    "pos": "adj",
+    "meaning": "空的",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "end",
+    "pos": "v",
+    "meaning": "结束",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "engine",
+    "pos": "n",
+    "meaning": "发动机",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "engineer",
+    "pos": "n",
+    "meaning": "工程师",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "enormous",
+    "pos": "adj",
+    "meaning": "庞大的",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "enough",
+    "pos": "adj+pron",
+    "meaning": "足够的；足够",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "enter(a competition)",
+    "pos": "v",
+    "meaning": "参加（一个比赛）",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "entrance",
+    "pos": "n",
+    "meaning": "入口",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "envelope",
+    "pos": "n",
+    "meaning": "信封",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "environment",
+    "pos": "n",
+    "meaning": "环境",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "ever",
+    "pos": "adv",
+    "meaning": "在任何时候",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "everywhere",
+    "pos": "adv",
+    "meaning": "各处，导到处",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "excellent",
+    "pos": "adj+excl",
+    "meaning": "极好的，杰出的",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "excited",
+    "pos": "adj",
+    "meaning": "使…激动",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "exit",
+    "pos": "n",
+    "meaning": "出口",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "expensive",
+    "pos": "adj",
+    "meaning": "昂贵的",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "explain",
+    "pos": "v",
+    "meaning": "解释，说明",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "explore",
+    "pos": "v",
+    "meaning": "勘察，探索",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "extinct",
+    "pos": "adj",
+    "meaning": "灭绝的",
+    "level": "KET三级",
+    "initial": "E"
+  },
+  {
+    "word": "factory",
+    "pos": "n",
+    "meaning": "工厂",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fall (UK autumn)",
+    "pos": "n",
+    "meaning": "秋天",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fall over",
+    "pos": "v",
+    "meaning": "倒下",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "far",
+    "pos": "adj+adv",
+    "meaning": "遥远的；远，久远",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fast",
+    "pos": "adj+adv",
+    "meaning": "快的；快速",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "February",
+    "pos": "n",
+    "meaning": "二月",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "feel",
+    "pos": "v",
+    "meaning": "感觉",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "festival",
+    "pos": "n",
+    "meaning": "节日",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fetch",
+    "pos": "v",
+    "meaning": "接来，取来",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "a few",
+    "pos": "det",
+    "meaning": "一些",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "file",
+    "pos": "n",
+    "meaning": "文件",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "find out",
+    "pos": "v",
+    "meaning": "偶然发现，找到",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "finger",
+    "pos": "n",
+    "meaning": "手指",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "finish",
+    "pos": "v",
+    "meaning": "结束，完成",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fire",
+    "pos": "n",
+    "meaning": "火",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fire engine (US fire truck)",
+    "pos": "n",
+    "meaning": "消防车",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fire fighter",
+    "pos": "n",
+    "meaning": "消防人员",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fire station",
+    "pos": "n",
+    "meaning": "消防站",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "flag",
+    "pos": "n",
+    "meaning": "旗",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "flashlight (US torch)",
+    "pos": "n",
+    "meaning": "手电筒",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "flour",
+    "pos": "n",
+    "meaning": "面粉",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fog",
+    "pos": "n",
+    "meaning": "雾",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "foggy",
+    "pos": "adj",
+    "meaning": "有雾的",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "follow",
+    "pos": "v",
+    "meaning": "跟随",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "for",
+    "pos": "prep of time",
+    "meaning": "表示时间段",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "forget",
+    "pos": "v",
+    "meaning": "忘记",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fork",
+    "pos": "n",
+    "meaning": "餐叉",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "Frank",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fridge",
+    "pos": "n",
+    "meaning": "冰箱",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "friendly",
+    "pos": "adj",
+    "meaning": "友好的",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "frightening",
+    "pos": "adj",
+    "meaning": "恐怖的",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "front",
+    "pos": "adj+n",
+    "meaning": "前面的；前面，正面",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "full",
+    "pos": "adj",
+    "meaning": "装满的",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "fur",
+    "pos": "n",
+    "meaning": "毛皮",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "furry",
+    "pos": "adj",
+    "meaning": "毛皮覆盖的，毛茸茸的",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "future",
+    "pos": "n",
+    "meaning": "将来",
+    "level": "KET三级",
+    "initial": "F"
+  },
+  {
+    "word": "gate",
+    "pos": "n",
+    "meaning": "大门",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "geography",
+    "pos": "n",
+    "meaning": "地理学",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "George",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "get to",
+    "pos": "v",
+    "meaning": "到达，开始",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "glass",
+    "pos": "n",
+    "meaning": "玻璃",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "glove",
+    "pos": "n",
+    "meaning": "手套",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "glue",
+    "pos": "n+v",
+    "meaning": "胶水；用胶水粘",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "go away",
+    "pos": "excl",
+    "meaning": "走开",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "go out",
+    "pos": "v",
+    "meaning": "出去",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "gold",
+    "pos": "adj+n",
+    "meaning": "金色的；黄金",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "golf",
+    "pos": "n",
+    "meaning": "高尔夫球",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "group",
+    "pos": "n",
+    "meaning": "群体",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "guess",
+    "pos": "n+v",
+    "meaning": "猜测；猜测",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "gym",
+    "pos": "n",
+    "meaning": "健身房，体育馆",
+    "level": "KET三级",
+    "initial": "G"
+  },
+  {
+    "word": "half",
+    "pos": "adj+n",
+    "meaning": "一半的；一半",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "happen",
+    "pos": "v",
+    "meaning": "发生",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hard",
+    "pos": "adj+adv",
+    "meaning": "困难的，硬的；努力地",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "Harry",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hate",
+    "pos": "v",
+    "meaning": "憎恨，讨厌",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hear",
+    "pos": "v",
+    "meaning": "听到",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "heavy",
+    "pos": "adj",
+    "meaning": "重的",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "Helen",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "high",
+    "pos": "adj",
+    "meaning": "高的",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hill",
+    "pos": "n",
+    "meaning": "小山",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "history",
+    "pos": "n",
+    "meaning": "历史",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hole",
+    "pos": "n",
+    "meaning": "洞",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "Holly",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "honey",
+    "pos": "n",
+    "meaning": "蜂蜜",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hope",
+    "pos": "v",
+    "meaning": "希望",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "horrible",
+    "pos": "adj",
+    "meaning": "令人恐惧的",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hotel",
+    "pos": "n",
+    "meaning": "酒店，旅馆",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hour",
+    "pos": "n",
+    "meaning": "小时",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "how long",
+    "pos": "adv+int",
+    "meaning": "多长时间",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "hurry",
+    "pos": "v",
+    "meaning": "急忙做某事",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "husband",
+    "pos": "n",
+    "meaning": "丈夫",
+    "level": "KET三级",
+    "initial": "H"
+  },
+  {
+    "word": "if",
+    "pos": "conj",
+    "meaning": "如果，假如",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "if you want",
+    "pos": "excl",
+    "meaning": "如果你愿意的话",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "important",
+    "pos": "adj",
+    "meaning": "重要的",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "improve",
+    "pos": "v",
+    "meaning": "提高，改善",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "in a minute",
+    "pos": "excl",
+    "meaning": "马上，立即",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "information",
+    "pos": "n",
+    "meaning": "信息，消息",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "insect",
+    "pos": "n",
+    "meaning": "昆虫",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "instead",
+    "pos": "adv",
+    "meaning": "作为替代",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "instrument",
+    "pos": "n",
+    "meaning": "乐器",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "interested",
+    "pos": "adj",
+    "meaning": "感兴趣的",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "interesting",
+    "pos": "adj",
+    "meaning": "有趣的",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "invent",
+    "pos": "v",
+    "meaning": "发明",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "invitation",
+    "pos": "n",
+    "meaning": "邀请",
+    "level": "KET三级",
+    "initial": "I"
+  },
+  {
+    "word": "jam",
+    "pos": "n",
+    "meaning": "果酱",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "January",
+    "pos": "n",
+    "meaning": "一月",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "job",
+    "pos": "n",
+    "meaning": "工作",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "join (a club)",
+    "pos": "n",
+    "meaning": "加入，参加",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "journalist",
+    "pos": "n",
+    "meaning": "新闻记者",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "journey",
+    "pos": "n",
+    "meaning": "旅行",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "July",
+    "pos": "n",
+    "meaning": "七月",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "June",
+    "pos": "n",
+    "meaning": "六月",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "just",
+    "pos": "adv",
+    "meaning": "恰好",
+    "level": "KET三级",
+    "initial": "J"
+  },
+  {
+    "word": "Katy",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "keep",
+    "pos": "v",
+    "meaning": "使保持",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "key",
+    "pos": "n",
+    "meaning": "钥匙，答案",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "kilometer (US kilometer)",
+    "pos": "n",
+    "meaning": "千米，公里",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "kind",
+    "pos": "adj",
+    "meaning": "友好的",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "king",
+    "pos": "n",
+    "meaning": "国王",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "knee",
+    "pos": "n",
+    "meaning": "膝盖",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "knife",
+    "pos": "n",
+    "meaning": "刀",
+    "level": "KET三级",
+    "initial": "K"
+  },
+  {
+    "word": "land",
+    "pos": "v",
+    "meaning": "使…着陆",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "Language",
+    "pos": "n",
+    "meaning": "语言",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "large",
+    "pos": "adj",
+    "meaning": "大的",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "late",
+    "pos": "adj+adv",
+    "meaning": "晚的；晚，迟到",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "later",
+    "pos": "adv",
+    "meaning": "后来的",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "lazy",
+    "pos": "adj",
+    "meaning": "懒惰的",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "leave",
+    "pos": "v",
+    "meaning": "离开",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "left (as in direction)",
+    "pos": "adj+n",
+    "meaning": "左边的；左边",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "let",
+    "pos": "v",
+    "meaning": "允许，让",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "letter (as in mail)",
+    "pos": "n",
+    "meaning": "信",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "lie (as in lie down)",
+    "pos": "v",
+    "meaning": "躺下，平卧",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "lift (ride)",
+    "pos": "n",
+    "meaning": "免费乘车，搭便车",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "lift",
+    "pos": "v",
+    "meaning": "拿起，提起",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "light",
+    "pos": "adj+n",
+    "meaning": "轻的；光亮，光线",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "a little",
+    "pos": "adv+det",
+    "meaning": "一点儿，少量",
+    "level": "KET三级",
+    "initial": "A"
+  },
+  {
+    "word": "London",
+    "pos": "n",
+    "meaning": "伦敦",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "look after",
+    "pos": "v",
+    "meaning": "照顾，看护",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "look like",
+    "pos": "v",
+    "meaning": "看起来像…",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "lovely",
+    "pos": "adj",
+    "meaning": "可爱的，美丽的",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "low",
+    "pos": "adj",
+    "meaning": "低的，低矮的",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "lucky",
+    "pos": "adj",
+    "meaning": "幸运的",
+    "level": "KET三级",
+    "initial": "L"
+  },
+  {
+    "word": "magazine",
+    "pos": "n",
+    "meaning": "杂志",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "make sure",
+    "pos": "v",
+    "meaning": "证实，确信",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "manager",
+    "pos": "n",
+    "meaning": "经理",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "March",
+    "pos": "n",
+    "meaning": "三月",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "married",
+    "pos": "adj",
+    "meaning": "已婚的",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "match (football)",
+    "pos": "n",
+    "meaning": "比赛",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "maths (US math)",
+    "pos": "n",
+    "meaning": "数学",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "May",
+    "pos": "n",
+    "meaning": "五月",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "may",
+    "pos": "v",
+    "meaning": "可能",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "meal",
+    "pos": "n",
+    "meaning": "一餐",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "mechanic",
+    "pos": "n",
+    "meaning": "技工",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "medicine",
+    "pos": "n",
+    "meaning": "医学，药",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "meet",
+    "pos": "v",
+    "meaning": "遇见，会面",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "meeting",
+    "pos": "n",
+    "meaning": "会议",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "member",
+    "pos": "n",
+    "meaning": "成员",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "metal",
+    "pos": "adj+n",
+    "meaning": "金属制的；金属",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "Michael",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "midday",
+    "pos": "n",
+    "meaning": "中午",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "middle",
+    "pos": "n+adj",
+    "meaning": "中间；中间的",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "midnight",
+    "pos": "n",
+    "meaning": "午夜",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "might",
+    "pos": "v",
+    "meaning": "可能，也许，应该",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "million",
+    "pos": "n",
+    "meaning": "一百万",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "mind",
+    "pos": "v",
+    "meaning": "在意，介意，留意",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "minute",
+    "pos": "n",
+    "meaning": "分，分钟",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "missing",
+    "pos": "adj",
+    "meaning": "丢失的，失踪的",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "mix",
+    "pos": "v",
+    "meaning": "使混合",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "money",
+    "pos": "n",
+    "meaning": "钱",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "month",
+    "pos": "n",
+    "meaning": "月",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "motorway",
+    "pos": "n",
+    "meaning": "高速公路",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "much",
+    "pos": "adv+det+pron",
+    "meaning": "非常；大量，许多",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "museum",
+    "pos": "n",
+    "meaning": "博物馆",
+    "level": "KET三级",
+    "initial": "M"
+  },
+  {
+    "word": "necklace",
+    "pos": "n",
+    "meaning": "项链",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "nest",
+    "pos": "n",
+    "meaning": "窝",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "news",
+    "pos": "n",
+    "meaning": "新闻，消息",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "newspaper",
+    "pos": "n",
+    "meaning": "报纸",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "next",
+    "pos": "adj+adv",
+    "meaning": "紧接着的，隔壁的；随后",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "no problem",
+    "pos": "excl",
+    "meaning": "没问题",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "noisy",
+    "pos": "adj",
+    "meaning": "喧闹的",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "no-one",
+    "pos": "pron",
+    "meaning": "没有人",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "north",
+    "pos": "n",
+    "meaning": "北方",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "November",
+    "pos": "n",
+    "meaning": "十一月",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "nowhere",
+    "pos": "adv",
+    "meaning": "哪里都不",
+    "level": "KET三级",
+    "initial": "N"
+  },
+  {
+    "word": "ocean",
+    "pos": "n",
+    "meaning": "海洋",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "October",
+    "pos": "n",
+    "meaning": "十月",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "octopus",
+    "pos": "n",
+    "meaning": "章鱼",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "of course",
+    "pos": "adv",
+    "meaning": "当然",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "office",
+    "pos": "n",
+    "meaning": "办公室",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "Oliver",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "olives",
+    "pos": "n",
+    "meaning": "油橄榄",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "once",
+    "pos": "adv",
+    "meaning": "一次，曾经",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "online",
+    "pos": "adj",
+    "meaning": "网上的",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "other",
+    "pos": "det+pron",
+    "meaning": "其他的，别的",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "oven",
+    "pos": "n",
+    "meaning": "烤箱",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "over",
+    "pos": "adv+prep",
+    "meaning": "翻过，穿过；在…上方",
+    "level": "KET三级",
+    "initial": "O"
+  },
+  {
+    "word": "p.m. (for time)",
+    "pos": "adv",
+    "meaning": "下午",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pajamas (UK pyjamas)",
+    "pos": "n",
+    "meaning": "睡衣裤",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "passenger",
+    "pos": "n",
+    "meaning": "乘客，旅客",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "past",
+    "pos": "n+prep",
+    "meaning": "过去；过，超过",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "path",
+    "pos": "n",
+    "meaning": "小路，路线",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pepper",
+    "pos": "n",
+    "meaning": "胡椒粉",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "perhaps",
+    "pos": "adv",
+    "meaning": "或许",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "photographer",
+    "pos": "n",
+    "meaning": "摄影师",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "piece",
+    "pos": "n",
+    "meaning": "块",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pilot",
+    "pos": "n",
+    "meaning": "飞行员",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pizza",
+    "pos": "n",
+    "meaning": "披萨饼",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "planet",
+    "pos": "n",
+    "meaning": "行星",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "plastic",
+    "pos": "adj+n",
+    "meaning": "塑料的；塑料",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "platform",
+    "pos": "n",
+    "meaning": "月台，平台",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pleased",
+    "pos": "adj",
+    "meaning": "高兴的",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pocket",
+    "pos": "n",
+    "meaning": "口袋",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "police officer",
+    "pos": "n",
+    "meaning": "警察",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "police station",
+    "pos": "n",
+    "meaning": "警察局",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pond",
+    "pos": "n",
+    "meaning": "池塘",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "poor",
+    "pos": "adj",
+    "meaning": "贫穷的",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pop music",
+    "pos": "n",
+    "meaning": "流行音乐",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "popular",
+    "pos": "adj",
+    "meaning": "受欢迎的",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "post",
+    "pos": "v",
+    "meaning": "邮寄",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "post office",
+    "pos": "n",
+    "meaning": "邮局",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "postcard",
+    "pos": "n",
+    "meaning": "明信片",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "prefer",
+    "pos": "v",
+    "meaning": "较喜欢",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "prepare",
+    "pos": "v",
+    "meaning": "准备",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "prize",
+    "pos": "n",
+    "meaning": "奖品，奖",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "problem",
+    "pos": "n",
+    "meaning": "问题",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "programme (US program)",
+    "pos": "n",
+    "meaning": "计划，日程",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "project",
+    "pos": "n",
+    "meaning": "项目，任务，方案",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pull",
+    "pos": "v",
+    "meaning": "拉",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "push",
+    "pos": "v",
+    "meaning": "推",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "puzzle",
+    "pos": "n",
+    "meaning": "谜语，智力游戏",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pyjamas (US pajamas)",
+    "pos": "n",
+    "meaning": "睡衣裤",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "pyramid",
+    "pos": "n",
+    "meaning": "金字塔",
+    "level": "KET三级",
+    "initial": "P"
+  },
+  {
+    "word": "quarter",
+    "pos": "n",
+    "meaning": "四分之一",
+    "level": "KET三级",
+    "initial": "Q"
+  },
+  {
+    "word": "queen",
+    "pos": "n",
+    "meaning": "女王，王后",
+    "level": "KET三级",
+    "initial": "Q"
+  },
+  {
+    "word": "quite",
+    "pos": "adv",
+    "meaning": "比较，相当",
+    "level": "KET三级",
+    "initial": "Q"
+  },
+  {
+    "word": "quiz",
+    "pos": "n",
+    "meaning": "知识竞赛，小测验",
+    "level": "KET三级",
+    "initial": "Q"
+  },
+  {
+    "word": "race",
+    "pos": "n+v",
+    "meaning": "速度竞赛；同…竞速",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "racing (car, bike)",
+    "pos": "adj",
+    "meaning": "竞赛用的",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "railway",
+    "pos": "n",
+    "meaning": "铁路",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "ready",
+    "pos": "adj",
+    "meaning": "准备好的",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "remember",
+    "pos": "v",
+    "meaning": "记得",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "repair",
+    "pos": "v",
+    "meaning": "修理",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "repeat",
+    "pos": "v",
+    "meaning": "重复说，重复写",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "restaurant",
+    "pos": "n",
+    "meaning": "餐馆",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "rich",
+    "pos": "adj",
+    "meaning": "富有的",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "Richard",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "right",
+    "pos": "adj",
+    "meaning": "正当",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "right (as in direction)",
+    "pos": "n",
+    "meaning": "右边",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "Robert",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "rock music",
+    "pos": "n",
+    "meaning": "摇滚乐",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "rocket",
+    "pos": "n",
+    "meaning": "火箭",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "rucksack (US backpack)",
+    "pos": "n",
+    "meaning": "帆布背包",
+    "level": "KET三级",
+    "initial": "R"
+  },
+  {
+    "word": "salt",
+    "pos": "n",
+    "meaning": "食盐",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "same",
+    "pos": "adj",
+    "meaning": "一样的，相同的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "Sarah",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "save",
+    "pos": "v",
+    "meaning": "挽救，节省",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "science",
+    "pos": "n",
+    "meaning": "科学",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "scissors",
+    "pos": "n",
+    "meaning": "剪刀",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "score",
+    "pos": "n",
+    "meaning": "得分",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "screen",
+    "pos": "n",
+    "meaning": "屏幕",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "search",
+    "pos": "n+v",
+    "meaning": "寻找；搜查，搜索",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "secret",
+    "pos": "n",
+    "meaning": "秘密",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "sell",
+    "pos": "v",
+    "meaning": "卖",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "September",
+    "pos": "n",
+    "meaning": "九月",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "several",
+    "pos": "adj",
+    "meaning": "几个的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "shampoo",
+    "pos": "n",
+    "meaning": "洗发水",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "shelf",
+    "pos": "n",
+    "meaning": "架子",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "should",
+    "pos": "v",
+    "meaning": "应该",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "silver",
+    "pos": "adj+n",
+    "meaning": "银色的，银质的；银",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "since",
+    "pos": "prep",
+    "meaning": "自…以来",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "singer",
+    "pos": "n",
+    "meaning": "歌手",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "ski",
+    "pos": "n+v",
+    "meaning": "滑雪板；滑雪",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "skyscraper",
+    "pos": "n",
+    "meaning": "摩天大楼",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "sledge",
+    "pos": "n+v",
+    "meaning": "雪橇；用雪橇运送",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "smell",
+    "pos": "n+v",
+    "meaning": "气味；闻到…的气味",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "snack",
+    "pos": "n",
+    "meaning": "快餐，小吃",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "snowball",
+    "pos": "n",
+    "meaning": "雪球",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "snowboard",
+    "pos": "n",
+    "meaning": "滑雪板",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "snowboarding",
+    "pos": "n",
+    "meaning": "滑雪板运动",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "snowman",
+    "pos": "n",
+    "meaning": "雪人",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "so",
+    "pos": "adv+conj",
+    "meaning": "如此；因此，所以",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "soap",
+    "pos": "n",
+    "meaning": "肥皂",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "soft",
+    "pos": "adj",
+    "meaning": "软的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "somewhere",
+    "pos": "adv",
+    "meaning": "在某处",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "soon",
+    "pos": "adv",
+    "meaning": "不久",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "Sophia",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "sore",
+    "pos": "adj",
+    "meaning": "感到疼痛的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "sound",
+    "pos": "n+v",
+    "meaning": "声音；响起，听起来",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "south",
+    "pos": "n",
+    "meaning": "南方",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "space",
+    "pos": "n",
+    "meaning": "空间",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "spaceship",
+    "pos": "n",
+    "meaning": "宇宙飞船",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "speak",
+    "pos": "v",
+    "meaning": "说话",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "special",
+    "pos": "adj",
+    "meaning": "特别的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "spend",
+    "pos": "v",
+    "meaning": "花（钱，时间，精力）",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "spoon",
+    "pos": "n",
+    "meaning": "勺子",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "spot",
+    "pos": "n",
+    "meaning": "斑点，污渍",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "spotted",
+    "pos": "adj",
+    "meaning": "有斑点的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "spring",
+    "pos": "n",
+    "meaning": "春天",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "stadium",
+    "pos": "n",
+    "meaning": "体育场",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "stage (theatre)",
+    "pos": "n",
+    "meaning": "舞台",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "stamp",
+    "pos": "n",
+    "meaning": "邮票",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "stay",
+    "pos": "v",
+    "meaning": "停留",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "step",
+    "pos": "n",
+    "meaning": "一步",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "still",
+    "pos": "adv",
+    "meaning": "仍然",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "stone",
+    "pos": "n",
+    "meaning": "石头",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "storm",
+    "pos": "n",
+    "meaning": "暴风雨",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "straight on",
+    "pos": "adv",
+    "meaning": "一直向前",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "strange",
+    "pos": "adj",
+    "meaning": "奇怪的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "strawberry",
+    "pos": "n",
+    "meaning": "草莓",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "stream",
+    "pos": "n",
+    "meaning": "溪流",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "stripe",
+    "pos": "n",
+    "meaning": "条纹",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "striped",
+    "pos": "adj",
+    "meaning": "有条纹的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "student",
+    "pos": "n",
+    "meaning": "学生",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "study",
+    "pos": "v",
+    "meaning": "学习",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "subject",
+    "pos": "n",
+    "meaning": "主题，科目",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "such",
+    "pos": "det",
+    "meaning": "这样的，那样的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "suddenly",
+    "pos": "adv",
+    "meaning": "突然地",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "sugar",
+    "pos": "n",
+    "meaning": "糖",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "suitcase",
+    "pos": "n",
+    "meaning": "手提箱",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "summer",
+    "pos": "n",
+    "meaning": "夏天",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "sunglasses",
+    "pos": "n",
+    "meaning": "墨镜",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "sure",
+    "pos": "adj",
+    "meaning": "确信的",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "surname",
+    "pos": "n",
+    "meaning": "姓",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "surprise",
+    "pos": "n",
+    "meaning": "惊喜",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "swan",
+    "pos": "n",
+    "meaning": "天鹅",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "swing",
+    "pos": "n+v",
+    "meaning": "挥动，摆动",
+    "level": "KET三级",
+    "initial": "S"
+  },
+  {
+    "word": "take (as in time e.g. it takes 20 minutes)",
+    "pos": "v",
+    "meaning": "花费时间",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "taste",
+    "pos": "n+v",
+    "meaning": "味道；品尝",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "taxi",
+    "pos": "n",
+    "meaning": "出租车",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "team",
+    "pos": "n",
+    "meaning": "队",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "telephone",
+    "pos": "n",
+    "meaning": "电话",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tent",
+    "pos": "n",
+    "meaning": "帐篷",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "thank",
+    "pos": "v",
+    "meaning": "感谢",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "theatre (US theater)",
+    "pos": "n",
+    "meaning": "剧院",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "thousand",
+    "pos": "n",
+    "meaning": "一千",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "through",
+    "pos": "prep",
+    "meaning": "穿过",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tidy",
+    "pos": "adj",
+    "meaning": "整洁的",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "time",
+    "pos": "n",
+    "meaning": "时间",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "timetable",
+    "pos": "n",
+    "meaning": "时间表",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "toe",
+    "pos": "n",
+    "meaning": "脚趾",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "together",
+    "pos": "adv",
+    "meaning": "一起，共同",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tomorrow",
+    "pos": "adv+n",
+    "meaning": "在明天；明天",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tonight",
+    "pos": "adv+n",
+    "meaning": "在今夜；今夜",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "torch (US flashlight)",
+    "pos": "n",
+    "meaning": "手电筒",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tortoise",
+    "pos": "n",
+    "meaning": "陆龟",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "touch",
+    "pos": "v",
+    "meaning": "触碰",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tour",
+    "pos": "n",
+    "meaning": "旅行",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "traffic",
+    "pos": "n",
+    "meaning": "交通",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "trainers",
+    "pos": "n",
+    "meaning": "教练员",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tune",
+    "pos": "n",
+    "meaning": "曲调",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "turn",
+    "pos": "v",
+    "meaning": "转动",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "turn off",
+    "pos": "v",
+    "meaning": "关掉",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "turn on",
+    "pos": "v",
+    "meaning": "打开，启动",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "twice",
+    "pos": "adv",
+    "meaning": "两次",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "tyre (US tire)",
+    "pos": "n",
+    "meaning": "轮胎",
+    "level": "KET三级",
+    "initial": "T"
+  },
+  {
+    "word": "umbrella",
+    "pos": "n",
+    "meaning": "雨伞",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "unfriendly",
+    "pos": "adj",
+    "meaning": "不友好的",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "unhappy",
+    "pos": "adj",
+    "meaning": "痛苦的，不高兴的",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "uniform",
+    "pos": "n",
+    "meaning": "制服",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "university",
+    "pos": "n",
+    "meaning": "大学",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "unkind",
+    "pos": "adj",
+    "meaning": "不友善的",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "untidy",
+    "pos": "adj",
+    "meaning": "凌乱的，不整洁的",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "until",
+    "pos": "prep",
+    "meaning": "直到",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "unusual",
+    "pos": "adj",
+    "meaning": "不寻常的",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "use",
+    "pos": "v",
+    "meaning": "使用",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "usually",
+    "pos": "adv",
+    "meaning": "通常",
+    "level": "KET三级",
+    "initial": "U"
+  },
+  {
+    "word": "view",
+    "pos": "n",
+    "meaning": "观点",
+    "level": "KET三级",
+    "initial": "V"
+  },
+  {
+    "word": "violin",
+    "pos": "n",
+    "meaning": "小提琴",
+    "level": "KET三级",
+    "initial": "V"
+  },
+  {
+    "word": "visit",
+    "pos": "v",
+    "meaning": "访问",
+    "level": "KET三级",
+    "initial": "V"
+  },
+  {
+    "word": "volleyball",
+    "pos": "n",
+    "meaning": "排球",
+    "level": "KET三级",
+    "initial": "V"
+  },
+  {
+    "word": "waiter",
+    "pos": "n",
+    "meaning": "男服务员",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "warm",
+    "pos": "adj",
+    "meaning": "温暖的",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "way",
+    "pos": "n",
+    "meaning": "方式",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "west",
+    "pos": "n",
+    "meaning": "西方",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wheel",
+    "pos": "n",
+    "meaning": "车轮",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "while",
+    "pos": "conj",
+    "meaning": "与…同时",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "whisper",
+    "pos": "v",
+    "meaning": "低声说",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "whistle",
+    "pos": "v",
+    "meaning": "抽口哨",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wife",
+    "pos": "n",
+    "meaning": "妻子",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wifi",
+    "pos": "n",
+    "meaning": "无线传输系统",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wild",
+    "pos": "adj",
+    "meaning": "野生的",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "will",
+    "pos": "v",
+    "meaning": "将",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "William",
+    "pos": "n",
+    "meaning": "（人名）",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "win",
+    "pos": "n",
+    "meaning": "胜利",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wing",
+    "pos": "n",
+    "meaning": "翅膀",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "winner",
+    "pos": "n",
+    "meaning": "获胜者",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "winter",
+    "pos": "n",
+    "meaning": "冬天",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wish",
+    "pos": "n+v",
+    "meaning": "愿望；希望",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "without",
+    "pos": "prep",
+    "meaning": "没有，不用，不带",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wonderful",
+    "pos": "adj",
+    "meaning": "令人赞叹的",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wood",
+    "pos": "n",
+    "meaning": "木头",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "wool",
+    "pos": "n",
+    "meaning": "羊毛",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "worried",
+    "pos": "adj",
+    "meaning": "发愁的",
+    "level": "KET三级",
+    "initial": "W"
+  },
+  {
+    "word": "x-ray",
+    "pos": "n",
+    "meaning": "X 射线",
+    "level": "KET三级",
+    "initial": "X"
+  },
+  {
+    "word": "yet",
+    "pos": "adv",
+    "meaning": "还",
+    "level": "KET三级",
+    "initial": "Y"
+  },
+  {
+    "word": "yoghurt",
+    "pos": "n",
+    "meaning": "酸奶",
+    "level": "KET三级",
+    "initial": "Y"
+  },
+  {
+    "word": "you're welcome",
+    "pos": "excl",
+    "meaning": "不客气",
+    "level": "KET三级",
+    "initial": "Y"
+  },
+  {
+    "word": "zero",
+    "pos": "n",
+    "meaning": "零",
+    "level": "KET三级",
+    "initial": "Z"
+  }
+]
