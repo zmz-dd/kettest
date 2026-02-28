@@ -370,7 +370,7 @@ export default function VocabManager() {
                                 </div>
                                 <div>
                                     <div className="font-bold">{u.username}</div>
-                                    <div className="text-xs text-muted-foreground">Joined: {new Date(u.joinedAt).toLocaleDateString()}</div>
+                                    <div className="text-xs text-muted-foreground">Joined: {new Date(u.joinedAt || Date.now()).toLocaleDateString()}</div>
                                 </div>
                             </div>
                             <div className="flex gap-1">

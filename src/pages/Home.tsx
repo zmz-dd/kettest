@@ -182,9 +182,9 @@ export default function Home() {
   const progressPercent = Math.min(100, (currentDay / timelineDays) * 100);
 
   return (
-    <div className="min-h-screen bg-background p-4 md:p-8 flex flex-col w-full md:max-w-6xl mx-auto relative overflow-y-auto md:overflow-hidden md:justify-center">
+    <div className="h-[100dvh] bg-background p-4 flex flex-col w-full md:max-w-6xl mx-auto relative overflow-hidden md:justify-center supports-[height:100dvh]:h-[100dvh]">
       {/* Header */}
-      <div className="flex justify-between items-center mb-6 z-20 w-full md:absolute md:top-6 md:left-8 md:right-8 md:mb-0 px-2 md:px-0" style={{maxWidth: '1010px', margin: '0 auto', right: 0, left: 0}}>
+      <div className="flex justify-between items-center mb-4 shrink-0 z-20 w-full md:absolute md:top-6 md:left-8 md:right-8 md:mb-0 px-2 md:px-0" style={{maxWidth: '1010px', margin: '0 auto', right: 0, left: 0}}>
         <div className="flex items-center gap-3">
           <div 
             className="w-12 h-12 rounded-full flex items-center justify-center font-bold text-white shadow-md border-2 border-white overflow-hidden bg-white"
@@ -422,8 +422,8 @@ export default function Home() {
 
       <div className="flex flex-col md:flex-row md:items-center md:gap-16 w-full flex-1 md:px-12">
       {/* Stats Hero */}
-      <div className="flex-1 flex flex-col items-center justify-center z-0 w-full max-w-md mx-auto">
-        <div className="relative w-48 h-48 md:w-64 md:h-64 mb-6">
+      <div className="flex-1 flex flex-col items-center justify-center z-0 w-full max-w-md mx-auto min-h-0">
+        <div className="relative w-40 h-40 md:w-64 md:h-64 mb-4 shrink-1 aspect-square max-h-[35vh]">
           <div className="absolute inset-0 bg-primary/20 rounded-full blur-3xl animate-pulse" />
           <img src={mascot} alt="Mascot" className="relative w-full h-full object-contain drop-shadow-2xl hover:scale-105 transition-transform duration-500" />
           
@@ -439,8 +439,8 @@ export default function Home() {
           </svg>
         </div>
         
-        <div className="grid grid-cols-2 gap-4 w-full mb-8">
-          <Card className="p-4 bg-white/50 backdrop-blur border-none shadow-sm flex flex-col items-center rounded-3xl relative overflow-hidden">
+        <div className="grid grid-cols-2 gap-3 w-full mb-4 shrink-0">
+          <Card className="p-3 bg-white/50 backdrop-blur border-none shadow-sm flex flex-col items-center rounded-3xl relative overflow-hidden">
             <div className="absolute top-0 left-0 w-full h-1 bg-secondary/30">
                 <div className="h-full bg-secondary" style={{width: `${stats ? (stats.learnedUnique / (stats.totalWords || 1)) * 100 : 0}%`}}></div>
             </div>
@@ -451,7 +451,7 @@ export default function Home() {
                 </div>
             </div>
           </Card>
-          <Card className="p-4 bg-white/50 backdrop-blur border-none shadow-sm flex flex-col items-center rounded-3xl relative overflow-hidden">
+          <Card className="p-3 bg-white/50 backdrop-blur border-none shadow-sm flex flex-col items-center rounded-3xl relative overflow-hidden">
              <div className="absolute top-0 left-0 w-full h-1 bg-accent/30">
                 <div className="h-full bg-accent" style={{width: `${stats ? (stats.todayLearned / (stats.dailyGoal || 1)) * 100 : 0}%`}}></div>
              </div>
@@ -467,7 +467,7 @@ export default function Home() {
           </Card>
           
           {/* New Timeline Card */}
-          <Card className="col-span-2 p-4 bg-white/50 backdrop-blur border-none shadow-sm flex flex-col justify-center rounded-3xl relative overflow-hidden px-6 gap-2">
+          <Card className="col-span-2 p-3 bg-white/50 backdrop-blur border-none shadow-sm flex flex-col justify-center rounded-3xl relative overflow-hidden px-5 gap-1.5">
              <div className="flex items-center justify-between w-full">
                  <div className="flex flex-col items-start leading-none gap-1">
                     <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-wider flex items-center gap-1"><CalendarClock className="w-3 h-3"/> Day {currentDay}</span>
@@ -494,10 +494,10 @@ export default function Home() {
       </div>
 
       {/* Actions */}
-      <div className="space-y-4 z-10 mb-8 w-full max-w-md mx-auto md:max-w-sm md:mb-0">
+      <div className="space-y-3 z-10 w-full max-w-md mx-auto md:max-w-sm shrink-0 pb-safe-offset-4">
         {!isGoalReached ? (
             <Button 
-                className="w-full h-20 text-2xl font-black rounded-3xl shadow-xl shadow-primary/30 flex items-center justify-between px-8 hover:scale-105 transition-transform"
+                className="w-full h-16 md:h-20 text-xl md:text-2xl font-black rounded-3xl shadow-xl shadow-primary/30 flex items-center justify-between px-6 md:px-8 hover:scale-105 transition-transform"
                 onClick={handleStartLearning}
             >
                 <div className="flex items-center gap-4">
@@ -517,7 +517,7 @@ export default function Home() {
             </Button>
         ) : (
             <Button 
-                className="w-full h-20 text-2xl font-black rounded-3xl shadow-xl bg-secondary hover:bg-secondary/90 text-white flex items-center justify-between px-8 hover:scale-105 transition-transform"
+                className="w-full h-16 md:h-20 text-xl md:text-2xl font-black rounded-3xl shadow-xl bg-secondary hover:bg-secondary/90 text-white flex items-center justify-between px-6 md:px-8 hover:scale-105 transition-transform"
                 onClick={() => setLocation('/learn')}
             >
                 <div className="flex items-center gap-4">
@@ -537,13 +537,13 @@ export default function Home() {
         )}
 
         <div className="grid grid-cols-4 gap-2">
-          <Button variant="outline" className="h-16 rounded-2xl border-2 hover:bg-secondary/10 font-bold flex flex-col gap-0 shadow-sm px-0" onClick={() => setLocation('/test')}>
-            <Trophy className="w-5 h-5 text-secondary mb-1" />
+          <Button variant="outline" className="h-14 md:h-16 rounded-2xl border-2 hover:bg-secondary/10 font-bold flex flex-col gap-0 shadow-sm px-0" onClick={() => setLocation('/test')}>
+            <Trophy className="w-4 h-4 md:w-5 md:h-5 text-secondary mb-0.5" />
             <span className="text-[10px] leading-none">Quiz</span>
             <span className="text-[9px] text-muted-foreground leading-none mt-0.5">测试</span>
           </Button>
-          <Button variant="outline" className="h-16 rounded-2xl border-2 hover:bg-green-100/50 font-bold flex flex-col gap-0 shadow-sm px-0 relative" onClick={() => setLocation('/review')}>
-            <History className="w-5 h-5 text-green-600 mb-1" />
+          <Button variant="outline" className="h-14 md:h-16 rounded-2xl border-2 hover:bg-green-100/50 font-bold flex flex-col gap-0 shadow-sm px-0 relative" onClick={() => setLocation('/review')}>
+            <History className="w-4 h-4 md:w-5 md:h-5 text-green-600 mb-0.5" />
             <span className="text-[10px] leading-none">Review</span>
             <span className="text-[9px] text-muted-foreground leading-none mt-0.5">复习</span>
             {reviewCount > 0 && (
@@ -552,13 +552,13 @@ export default function Home() {
               </span>
             )}
           </Button>
-          <Button variant="outline" className="h-16 rounded-2xl border-2 hover:bg-accent/10 font-bold flex flex-col gap-0 shadow-sm px-0" onClick={() => setLocation('/stats')}>
-            <BarChart3 className="w-5 h-5 text-accent mb-1" />
+          <Button variant="outline" className="h-14 md:h-16 rounded-2xl border-2 hover:bg-accent/10 font-bold flex flex-col gap-0 shadow-sm px-0" onClick={() => setLocation('/stats')}>
+            <BarChart3 className="w-4 h-4 md:w-5 md:h-5 text-accent mb-0.5" />
             <span className="text-[10px] leading-none">Stats</span>
             <span className="text-[9px] text-muted-foreground leading-none mt-0.5">统计</span>
           </Button>
-          <Button variant="outline" className="h-16 rounded-2xl border-2 hover:bg-destructive/10 font-bold flex flex-col gap-0 shadow-sm relative px-0" onClick={() => setLocation('/mistakes')}>
-            <XCircle className="w-5 h-5 text-destructive mb-1" />
+          <Button variant="outline" className="h-14 md:h-16 rounded-2xl border-2 hover:bg-destructive/10 font-bold flex flex-col gap-0 shadow-sm relative px-0" onClick={() => setLocation('/mistakes')}>
+            <XCircle className="w-4 h-4 md:w-5 md:h-5 text-destructive mb-0.5" />
             <span className="text-[10px] leading-none">Errors</span>
             <span className="text-[9px] text-muted-foreground leading-none mt-0.5">错题</span>
             {mistakeCount > 0 && (

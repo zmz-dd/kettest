@@ -3,8 +3,10 @@ import { useLocation } from "wouter";
 import { useAuth } from "@/contexts/UserContext";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Trophy, Medal, Crown } from "lucide-react";
+import { Trophy, Medal, Crown, Info, CloudOff, Cloud, RefreshCw } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { useState, useEffect } from "react";
+import { fetchLeaderboard, syncScore, type LeaderboardEntry } from "@/services/api";
 
 import red from "@/assets/avatars/red.png";
 import blue from "@/assets/avatars/blue.png";
@@ -17,34 +19,75 @@ const AVATARS: Record<string, string> = { red, blue, yellow, black, white, green
 
 export default function Leaderboard() {
   const [, setLocation] = useLocation();
-  const { user, users } = useAuth(); // Auth context has users list
+  const { user, users } = useAuth(); 
+  const [leaderboard, setLeaderboard] = useState<LeaderboardEntry[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [isOffline, setIsOffline] = useState(false);
 
-  // Calculate leaderboard here since it requires accessing other users' data
-  // Requirement 2: Sort by "Cumulative Learned" (Unique words learned since registration)
-  // Data is in localStorage keys: kids_vocab_progress_v5_{userId}
-  
-  const leaderboard = users
-    .filter(u => !u.isAdmin) // Filter out admin
-    .map(u => {
-        const progressKey = `kids_vocab_progress_v5_${u.id}`;
+  // Calculate local score
+  const getLocalScore = (userId: string) => {
+        const progressKey = `kids_vocab_progress_v5_${userId}`;
         const savedProgress = localStorage.getItem(progressKey);
-        let score = 0;
-        
         if (savedProgress) {
             const pMap = JSON.parse(savedProgress);
-            // Count entries where status != 'new'
-            score = Object.values(pMap).filter((p: any) => p.status !== 'new').length;
+            return Object.values(pMap).filter((p: any) => p.status !== 'new').length;
         }
-        
-        return {
-            id: u.id,
-            username: u.username,
-            avatarId: u.avatarId,
-            avatarColor: u.avatarColor,
-            score
-        };
-    })
-    .sort((a, b) => b.score - a.score);
+        return 0;
+  };
+
+  const loadData = async () => {
+      setLoading(true);
+      try {
+          // 1. Sync current user score first
+          if (user) {
+              const score = getLocalScore(user.id);
+              await syncScore({
+                  id: user.id,
+                  username: user.username,
+                  avatarId: user.avatarId,
+                  avatarColor: user.avatarColor,
+                  score
+              });
+          }
+
+          // 2. Fetch Global Leaderboard
+          const globalData = await fetchLeaderboard();
+          if (globalData.length > 0) {
+              setLeaderboard(globalData);
+              setIsOffline(false);
+          } else {
+              throw new Error("Empty data");
+          }
+      } catch (e) {
+          console.log("Server unreachable, falling back to local + bots");
+          setIsOffline(true);
+          
+          // Fallback: Local Users + Bots
+          const localUsers = users.filter(u => !u.isAdmin).map(u => ({
+              id: u.id,
+              username: u.username,
+              avatarId: u.avatarId,
+              avatarColor: u.avatarColor,
+              score: getLocalScore(u.id)
+          }));
+          
+          // Add Bots if few users
+          const bots: LeaderboardEntry[] = [
+            { id: 'bot_1', username: 'Alex', avatarId: 'blue', avatarColor: '#219EBC', score: 120 },
+            { id: 'bot_2', username: 'Sarah', avatarId: 'red', avatarColor: '#FF595E', score: 85 },
+            { id: 'bot_3', username: 'Tom', avatarId: 'green', avatarColor: '#8AC926', score: 45 },
+            { id: 'bot_4', username: 'Lily', avatarId: 'yellow', avatarColor: '#FFCA3A', score: 30 },
+          ];
+          
+          setLeaderboard([...localUsers, ...bots].sort((a, b) => b.score - a.score));
+      } finally {
+          setLoading(false);
+      }
+  };
+
+  useEffect(() => {
+      loadData();
+  }, [user]);
 
   return (
     <div className="min-h-screen p-4 bg-background max-w-md mx-auto flex flex-col">
@@ -53,23 +96,36 @@ export default function Leaderboard() {
         <h1 className="text-xl font-black text-primary flex items-center gap-2">
           <Trophy className="fill-current" /> Leaderboard
         </h1>
-        <div className="w-10" /> 
+        <Button variant="ghost" size="icon" onClick={loadData} disabled={loading}>
+            <RefreshCw className={cn("w-5 h-5 text-muted-foreground", loading && "animate-spin")} />
+        </Button>
+      </div>
+
+      <div className={cn(
+          "mb-4 p-3 text-xs rounded-xl border flex gap-2 items-center justify-between",
+          isOffline ? "bg-orange-50 text-orange-700 border-orange-100" : "bg-green-50 text-green-700 border-green-100"
+      )}>
+          <div className="flex gap-2 items-center">
+            {isOffline ? <CloudOff className="w-4 h-4" /> : <Cloud className="w-4 h-4" />}
+            <span className="font-bold">{isOffline ? "Offline Mode (Local + Bots)" : "Online Global Ranking"}</span>
+          </div>
+          <span className="opacity-70 text-[10px]">{isOffline ? "Server Unreachable" : "Live Updated"}</span>
       </div>
 
       <Card className="flex-1 bg-white/50 backdrop-blur border-4 border-primary/10 overflow-hidden flex flex-col">
-        <div className="bg-primary/10 p-4 border-b border-primary/10">
-          <div className="flex items-center justify-between text-xs font-bold text-muted-foreground uppercase tracking-wider">
+        <div className="bg-primary/10 p-4 border-b border-primary/10 flex justify-between items-center">
+          <div className="flex items-center gap-2 text-xs font-bold text-muted-foreground uppercase tracking-wider">
             <span>Rank</span>
             <span>Player</span>
-            <span>Learned</span>
           </div>
+          <span className="text-xs font-bold text-muted-foreground uppercase tracking-wider">Words Learned</span>
         </div>
         
         <div className="overflow-y-auto flex-1 p-2 space-y-2">
           {leaderboard.map((entry, index) => {
             const isMe = entry.id === user?.id;
             const rank = index + 1;
-            const avatarSrc = entry.avatarId ? AVATARS[entry.avatarId] : null;
+            const avatarSrc = entry.avatarId && AVATARS[entry.avatarId] ? AVATARS[entry.avatarId] : null;
             
             let rankIcon;
             if (rank === 1) rankIcon = <Crown className="w-5 h-5 text-yellow-500 fill-current" />;
@@ -95,15 +151,12 @@ export default function Leaderboard() {
                       {avatarSrc ? (
                           <img src={avatarSrc} alt="Avatar" className="w-full h-full object-cover" />
                       ) : (
-                          entry.username[0].toUpperCase()
+                          (entry.username && entry.username[0]) ? entry.username[0].toUpperCase() : '?'
                       )}
                     </div>
                     <div>
-                      <div className={cn("font-bold text-sm", isMe ? "text-white" : "text-gray-900")}>
+                      <div className={cn("font-bold text-sm flex items-center gap-1", isMe ? "text-white" : "text-gray-900")}>
                         {entry.username} {isMe && "(You)"}
-                      </div>
-                      <div className={cn("text-xs", isMe ? "text-primary-foreground/80" : "text-muted-foreground")}>
-                        {entry.score} Words
                       </div>
                     </div>
                   </div>
@@ -116,9 +169,9 @@ export default function Leaderboard() {
             );
           })}
 
-          {leaderboard.length === 0 && (
+          {leaderboard.length === 0 && !loading && (
             <div className="text-center p-8 text-muted-foreground">
-              No players yet. Be the first!
+              No players yet.
             </div>
           )}
         </div>

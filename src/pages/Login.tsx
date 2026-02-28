@@ -4,7 +4,7 @@ import { useAuth } from "@/contexts/UserContext";
 import { useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Label } from "@/components/ui/label";
 import { toast } from "sonner";
@@ -28,58 +28,38 @@ const AVATARS = [
 ];
 
 export default function Login() {
-  const { login, register } = useAuth();
+  const { login, register, isLoading, error } = useAuth();
   const [, setLocation] = useLocation();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
-  const [selectedAvatar, setSelectedAvatar] = useState(AVATARS[0]); // Default
-  const [isLoading, setIsLoading] = useState(false);
+  const [selectedAvatar, setSelectedAvatar] = useState(AVATARS[0]);
 
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!username || !password) return toast.error("Please fill all fields");
     
-    setIsLoading(true);
-    setTimeout(() => {
-      const success = login(username, password);
-      setIsLoading(false);
-      if (success) {
+    const success = await login(username, password);
+    if (success) {
         toast.success("Welcome back!");
         setLocation("/");
-      } else {
-        toast.error("Invalid username or password");
-      }
-    }, 800);
+    } else {
+        toast.error(error || "Invalid username or password");
+    }
   };
 
   const handleRegister = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!username || !password) return toast.error("Please fill all fields");
+    if (username.length < 2) return toast.error("Username must be at least 2 characters");
+    if (password.length < 4) return toast.error("Password must be at least 4 characters");
     
-    setIsLoading(true);
-    setTimeout(() => {
-      const success = register(username, password, selectedAvatar.color, selectedAvatar.id);
-      // Wait, UserContext.register signature is (username, pass). 
-      // I should update UserContext to accept avatar info OR update profile after register.
-      // Let's assume standard register creates a user, we can pass extra metadata if I update UserContext.
-      // Actually, I should update UserContext to support avatar.
-      
-      // Since I can't easily update Context signature without breaking types everywhere or re-editing heavily,
-      // I'll stick to 'color' which is already supported, and maybe store avatar ID in localStorage or just map color to avatar if unique?
-      // Better: Update UserContext to take avatarUrl.
-      
-      // Hack for now: Use the 'avatarColor' field to store the avatar ID string (e.g. 'red') if it's a simple string, 
-      // OR update the context properly. 
-      // I will update UserContext in next step.
-      
-      setIsLoading(false);
-      if (success) {
+    const success = await register(username, password, selectedAvatar.color, selectedAvatar.id);
+    if (success) {
         toast.success("Account created! Welcome!");
         setLocation("/");
-      } else {
-        toast.error("Username already taken");
-      }
-    }, 800);
+    } else {
+        toast.error(error || "Registration failed");
+    }
   };
 
   return (
@@ -149,7 +129,7 @@ export default function Login() {
                   </div>
                   
                   <div className="space-y-2">
-                    <div className="flex items-baseline gap-2"><Label htmlFor="r-user">Pick a Username</Label><span className="text-xs text-muted-foreground">用户名</span></div>
+                    <div className="flex items-baseline gap-2"><Label htmlFor="r-user">Pick a Username</Label><span className="text-xs text-muted-foreground">用户名 (≥2 chars)</span></div>
                     <Input 
                       id="r-user" 
                       placeholder="e.g. SuperKid" 
@@ -159,7 +139,7 @@ export default function Login() {
                     />
                   </div>
                   <div className="space-y-2">
-                    <div className="flex items-baseline gap-2"><Label htmlFor="r-pass">Create Password</Label><span className="text-xs text-muted-foreground">密码</span></div>
+                    <div className="flex items-baseline gap-2"><Label htmlFor="r-pass">Create Password</Label><span className="text-xs text-muted-foreground">密码 (≥4 chars)</span></div>
                     <Input 
                       id="r-pass" 
                       type="password" 
