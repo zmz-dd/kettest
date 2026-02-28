@@ -95,7 +95,15 @@ export default function Home() {
       return;
     }
     
-    // Init pending settings from current plan if exists
+    // Update counts using new 'scientific' definition
+    const task = getReviewTask('today'); 
+    setReviewCount(task.length);
+    
+    setMistakeCount(getMistakesList('all').length);
+  }, [user, plan, now]); // Recalc stats on time change
+
+  // Separate effect for syncing pendingSettings to avoid resetting user input on time tick
+  useEffect(() => {
     if (plan) {
         setPendingSettings({
             selectedBooks: plan.selectedBooks,
@@ -105,13 +113,7 @@ export default function Home() {
             learnOrder: plan.learnOrder
         });
     }
-
-    // Update counts using new 'scientific' definition (Task + Today's Learned)
-    const task = getReviewTask('today'); // 'today' mode in getReviewTask now returns combined list as per update
-    setReviewCount(task.length);
-    
-    setMistakeCount(getMistakesList('all').length);
-  }, [user, plan, now]); // Recalc on time change too
+  }, [plan]);
 
   if (!user) return null;
 
